@@ -60,6 +60,21 @@ The Updates page can query:
 
 Those routes return citations only. They do not extract efficacy. Conference feeds for ESMO, ASCO, ASH, ELCC, WCLC, EHA, and SABCS stay off unless you have a licensed source (`ENABLE_CONFERENCE_ADAPTERS` in `.env.example`).
 
+### Daily automatic discovery
+
+`/api/cron/discover` checks PubMed, Crossref, and ClinicalTrials.gov every day when the app is deployed on Vercel. `vercel.json` contains the 02:15 UTC schedule. Add `CRON_SECRET` and Supabase credentials to the deployment.
+
+The job:
+
+1. searches recent oncology trial publications and registry changes;
+2. deduplicates by NCT, PMID, and DOI;
+3. suggests organ, subtype, stage, biomarker, setting, and line of therapy;
+4. writes metadata to the protected evidence-review queue.
+
+It never publishes extracted efficacy automatically. A medical reviewer must verify the publication, endpoint definition, analysis cutoff, and numerical results first. Conference adapters remain disabled without licensed access.
+
+The **Benefits in Months** page calculates a descriptive difference only when both published medians are numeric. If a median was not reached, it shows a verified landmark-rate difference when available, or “Not estimable.” A difference between medians is not an individual patient’s expected survival gain.
+
 Copy `.env.example` to `.env.local` if you later add Supabase or an NCBI email address.
 
 ## Database
