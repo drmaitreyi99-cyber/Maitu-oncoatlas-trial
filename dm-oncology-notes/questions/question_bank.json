@@ -1,8 +1,1223 @@
 {
-  "count": 288,
+  "count": 396,
+  "early_count": 108,
+  "modern_count": 288,
   "questions": [
     {
       "id": "Q001",
+      "exam": "April 2001",
+      "code": "KD 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 25,
+      "target_pages": 15,
+      "question": "Discuss the role of biological response modifiers in management of cancer.",
+      "slug": "april-2001-essay-1-discuss-the-role-of-biological-response-modifiers-in-manageme",
+      "era": "early"
+    },
+    {
+      "id": "Q002",
+      "exam": "April 2001",
+      "code": "KD 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 25,
+      "target_pages": 15,
+      "question": "Discuss the various aspects of high dose chemotherapy in cancer.",
+      "slug": "april-2001-essay-2-discuss-the-various-aspects-of-high-dose-chemotherapy-in-canc",
+      "era": "early"
+    },
+    {
+      "id": "Q003",
+      "exam": "April 2001",
+      "code": "KD 020",
+      "type": "short",
+      "number": 1,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Topoisomerase inhibitors",
+      "slug": "april-2001-short-1-topoisomerase-inhibitors"
+    },
+    {
+      "id": "Q004",
+      "exam": "April 2001",
+      "code": "KD 020",
+      "type": "short",
+      "number": 2,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Hyperthermia",
+      "slug": "april-2001-short-2-hyperthermia"
+    },
+    {
+      "id": "Q005",
+      "exam": "April 2001",
+      "code": "KD 020",
+      "type": "short",
+      "number": 3,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Late effects of cancer chemotherapy",
+      "slug": "april-2001-short-3-late-effects-of-cancer-chemotherapy"
+    },
+    {
+      "id": "Q006",
+      "exam": "April 2001",
+      "code": "KD 020",
+      "type": "short",
+      "number": 4,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "All-trans retinoic acid (ATRA)",
+      "slug": "april-2001-short-4-all-trans-retinoic-acid-atra"
+    },
+    {
+      "id": "Q007",
+      "exam": "April 2001",
+      "code": "KD 020",
+      "type": "short",
+      "number": 5,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Gene therapy",
+      "slug": "april-2001-short-5-gene-therapy"
+    },
+    {
+      "id": "Q008",
+      "exam": "November 2001",
+      "code": "KE 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 25,
+      "target_pages": 15,
+      "question": "Discuss critically the role of chemotherapy in the treatment of anal canal cancer.",
+      "slug": "november-2001-essay-1-discuss-critically-the-role-of-chemotherapy-in-the-treatme",
+      "era": "early"
+    },
+    {
+      "id": "Q009",
+      "exam": "November 2001",
+      "code": "KE 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 25,
+      "target_pages": 15,
+      "question": "Discuss management of standard prognosis AML.",
+      "slug": "november-2001-essay-2-discuss-management-of-standard-prognosis-aml",
+      "era": "early"
+    },
+    {
+      "id": "Q010",
+      "exam": "November 2001",
+      "code": "KE 020",
+      "type": "short",
+      "number": 1,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "STI-571 (Tyrosine kinase inhibitor)",
+      "slug": "november-2001-short-1-sti-571-tyrosine-kinase-inhibitor"
+    },
+    {
+      "id": "Q011",
+      "exam": "November 2001",
+      "code": "KE 020",
+      "type": "short",
+      "number": 2,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Gene therapy in gliomas",
+      "slug": "november-2001-short-2-gene-therapy-in-gliomas"
+    },
+    {
+      "id": "Q012",
+      "exam": "November 2001",
+      "code": "KE 020",
+      "type": "short",
+      "number": 3,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Thalidomide",
+      "slug": "november-2001-short-3-thalidomide"
+    },
+    {
+      "id": "Q013",
+      "exam": "November 2001",
+      "code": "KE 020",
+      "type": "short",
+      "number": 4,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Hormone replacement therapy",
+      "slug": "november-2001-short-4-hormone-replacement-therapy"
+    },
+    {
+      "id": "Q014",
+      "exam": "November 2001",
+      "code": "KE 020",
+      "type": "short",
+      "number": 5,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Antibody targeted therapy in non-Hodgkin\u2019s lymphoma",
+      "slug": "november-2001-short-5-antibody-targeted-therapy-in-non-hodgkin-s-lymphoma"
+    },
+    {
+      "id": "Q015",
+      "exam": "March 2002",
+      "code": "KG 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 25,
+      "target_pages": 15,
+      "question": "Discuss outpatient management of febrile neutropenia following cancer chemotherapy.",
+      "slug": "march-2002-essay-1-discuss-outpatient-management-of-febrile-neutropenia-followin",
+      "era": "early"
+    },
+    {
+      "id": "Q016",
+      "exam": "March 2002",
+      "code": "KG 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 25,
+      "target_pages": 15,
+      "question": "Discuss critically the role of concurrent chemoradiotherapy in head and neck cancer.",
+      "slug": "march-2002-essay-2-discuss-critically-the-role-of-concurrent-chemoradiotherapy-i",
+      "era": "early"
+    },
+    {
+      "id": "Q017",
+      "exam": "March 2002",
+      "code": "KG 020",
+      "type": "short",
+      "number": 1,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Arsenic trioxide",
+      "slug": "march-2002-short-1-arsenic-trioxide"
+    },
+    {
+      "id": "Q018",
+      "exam": "March 2002",
+      "code": "KG 020",
+      "type": "short",
+      "number": 2,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Mycophenolate mofetil (MMF)",
+      "slug": "march-2002-short-2-mycophenolate-mofetil-mmf"
+    },
+    {
+      "id": "Q019",
+      "exam": "March 2002",
+      "code": "KG 020",
+      "type": "short",
+      "number": 3,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Advances in the chemotherapy of pancreatic cancer",
+      "slug": "march-2002-short-3-advances-in-the-chemotherapy-of-pancreatic-cancer"
+    },
+    {
+      "id": "Q020",
+      "exam": "March 2002",
+      "code": "KG 020",
+      "type": "short",
+      "number": 4,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Mixed chimerism in marrow transplants",
+      "slug": "march-2002-short-4-mixed-chimerism-in-marrow-transplants"
+    },
+    {
+      "id": "Q021",
+      "exam": "March 2002",
+      "code": "KG 020",
+      "type": "short",
+      "number": 5,
+      "marks": 10,
+      "target_pages": 11,
+      "question": "Multiagent antifolate in non-small cell lung cancer",
+      "slug": "march-2002-short-5-multiagent-antifolate-in-non-small-cell-lung-cancer"
+    },
+    {
+      "id": "Q022",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Describe briefly the hierarchy of haemopoiesis. How do stem cells play a part in tissue repair?",
+      "slug": "april-2004-essay-1-describe-briefly-the-hierarchy-of-haemopoiesis-how-do-stem-ce",
+      "era": "early"
+    },
+    {
+      "id": "Q023",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss critically the role of concurrent chemoradiotherapy in the management of anal canal cancer.",
+      "slug": "april-2004-essay-2-discuss-critically-the-role-of-concurrent-chemoradiotherapy-i",
+      "era": "early"
+    },
+    {
+      "id": "Q024",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 1,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Target based therapy for head and neck cancer",
+      "slug": "april-2004-short-1-target-based-therapy-for-head-and-neck-cancer"
+    },
+    {
+      "id": "Q025",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 2,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Immunotherapy for the treatment of malignant gliomas",
+      "slug": "april-2004-short-2-immunotherapy-for-the-treatment-of-malignant-gliomas"
+    },
+    {
+      "id": "Q026",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 3,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Role of monoclonal antibodies in lymphomas",
+      "slug": "april-2004-short-3-role-of-monoclonal-antibodies-in-lymphomas"
+    },
+    {
+      "id": "Q027",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 4,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Bortezomib",
+      "slug": "april-2004-short-4-bortezomib"
+    },
+    {
+      "id": "Q028",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 5,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Stem cell transplantation in childhood ALL",
+      "slug": "april-2004-short-5-stem-cell-transplantation-in-childhood-all"
+    },
+    {
+      "id": "Q029",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 6,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Flow cytometry",
+      "slug": "april-2004-short-6-flow-cytometry"
+    },
+    {
+      "id": "Q030",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 7,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Treatment of secondary leukemia",
+      "slug": "april-2004-short-7-treatment-of-secondary-leukemia"
+    },
+    {
+      "id": "Q031",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 8,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Chemotherapy for medulloblastoma",
+      "slug": "april-2004-short-8-chemotherapy-for-medulloblastoma"
+    },
+    {
+      "id": "Q032",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 9,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Hormone therapy for metastatic breast cancer",
+      "slug": "april-2004-short-9-hormone-therapy-for-metastatic-breast-cancer"
+    },
+    {
+      "id": "Q033",
+      "exam": "April 2004",
+      "code": "KK 020",
+      "type": "short",
+      "number": 10,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Gene therapy for malignant melanoma",
+      "slug": "april-2004-short-10-gene-therapy-for-malignant-melanoma"
+    },
+    {
+      "id": "Q034",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Describe critically the management of a 30-year-old male recently diagnosed with chronic phase chronic myeloid leukemia.",
+      "slug": "august-2004-essay-1-describe-critically-the-management-of-a-30-year-old-male-rec",
+      "era": "early"
+    },
+    {
+      "id": "Q035",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss critically the role of neoadjuvant chemotherapy in the management of locally advanced breast cancer.",
+      "slug": "august-2004-essay-2-discuss-critically-the-role-of-neoadjuvant-chemotherapy-in-t",
+      "era": "early"
+    },
+    {
+      "id": "Q036",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 1,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Monoclonal antibodies in the treatment of leukemias",
+      "slug": "august-2004-short-1-monoclonal-antibodies-in-the-treatment-of-leukemias"
+    },
+    {
+      "id": "Q037",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 2,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Mycophenolate mofetil",
+      "slug": "august-2004-short-2-mycophenolate-mofetil"
+    },
+    {
+      "id": "Q038",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 3,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Treatment of metastatic neuroblastoma",
+      "slug": "august-2004-short-3-treatment-of-metastatic-neuroblastoma"
+    },
+    {
+      "id": "Q039",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 4,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Large cell anaplastic lymphoma",
+      "slug": "august-2004-short-4-large-cell-anaplastic-lymphoma"
+    },
+    {
+      "id": "Q040",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 5,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Guidelines for the treatment of relapsed ovarian cancer",
+      "slug": "august-2004-short-5-guidelines-for-the-treatment-of-relapsed-ovarian-cancer"
+    },
+    {
+      "id": "Q041",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 6,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Role of chemotherapy for extremity soft tissue sarcomas among adults",
+      "slug": "august-2004-short-6-role-of-chemotherapy-for-extremity-soft-tissue-sarcomas-amon"
+    },
+    {
+      "id": "Q042",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 7,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Rituximab",
+      "slug": "august-2004-short-7-rituximab"
+    },
+    {
+      "id": "Q043",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 8,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Treatment of metastatic choriocarcinoma",
+      "slug": "august-2004-short-8-treatment-of-metastatic-choriocarcinoma"
+    },
+    {
+      "id": "Q044",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 9,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Genetics of retinoblastoma",
+      "slug": "august-2004-short-9-genetics-of-retinoblastoma"
+    },
+    {
+      "id": "Q045",
+      "exam": "August 2004",
+      "code": "KL 020",
+      "type": "short",
+      "number": 10,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Role of adjuvant chemotherapy for gastric cancer",
+      "slug": "august-2004-short-10-role-of-adjuvant-chemotherapy-for-gastric-cancer"
+    },
+    {
+      "id": "Q046",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss the role of autologous stem cell transplantation in present practice of oncology.",
+      "slug": "february-2005-essay-1-discuss-the-role-of-autologous-stem-cell-transplantation-i",
+      "era": "early"
+    },
+    {
+      "id": "Q047",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss the role and recent trends of targeted therapy.",
+      "slug": "february-2005-essay-2-discuss-the-role-and-recent-trends-of-targeted-therapy",
+      "era": "early"
+    },
+    {
+      "id": "Q048",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 1,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Cancer vaccines",
+      "slug": "february-2005-short-1-cancer-vaccines"
+    },
+    {
+      "id": "Q049",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 2,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Chemoprevention",
+      "slug": "february-2005-short-2-chemoprevention"
+    },
+    {
+      "id": "Q050",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 3,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Role of laparoscopy in diagnosis and treatment of cancer",
+      "slug": "february-2005-short-3-role-of-laparoscopy-in-diagnosis-and-treatment-of-cancer"
+    },
+    {
+      "id": "Q051",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 4,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Chemotherapy of prostate cancer",
+      "slug": "february-2005-short-4-chemotherapy-of-prostate-cancer"
+    },
+    {
+      "id": "Q052",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 5,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Bisphosphonates",
+      "slug": "february-2005-short-5-bisphosphonates"
+    },
+    {
+      "id": "Q053",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 6,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Meta-analysis",
+      "slug": "february-2005-short-6-meta-analysis"
+    },
+    {
+      "id": "Q054",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 7,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Aromatase inhibitors",
+      "slug": "february-2005-short-7-aromatase-inhibitors"
+    },
+    {
+      "id": "Q055",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 8,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Epidemiology of cancer in India",
+      "slug": "february-2005-short-8-epidemiology-of-cancer-in-india"
+    },
+    {
+      "id": "Q056",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 9,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Role of erythropoietin in cancer anaemia",
+      "slug": "february-2005-short-9-role-of-erythropoietin-in-cancer-anaemia"
+    },
+    {
+      "id": "Q057",
+      "exam": "February 2005",
+      "code": "KM 020",
+      "type": "short",
+      "number": 10,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Cancer in the immunosuppressed",
+      "slug": "february-2005-short-10-cancer-in-the-immunosuppressed"
+    },
+    {
+      "id": "Q058",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Describe critically the management of Hodgkin\u2019s disease which relapsed after standard ABVD.",
+      "slug": "february-2006-essay-1-describe-critically-the-management-of-hodgkin-s-disease-wh",
+      "era": "early"
+    },
+    {
+      "id": "Q059",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss the neoadjuvant treatment of cancer of rectum.",
+      "slug": "february-2006-essay-2-discuss-the-neoadjuvant-treatment-of-cancer-of-rectum",
+      "era": "early"
+    },
+    {
+      "id": "Q060",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 1,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Hormonal treatment of breast cancer in premenopausal female",
+      "slug": "february-2006-short-1-hormonal-treatment-of-breast-cancer-in-premenopausal-femal"
+    },
+    {
+      "id": "Q061",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 2,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Angiogenesis inhibitors",
+      "slug": "february-2006-short-2-angiogenesis-inhibitors"
+    },
+    {
+      "id": "Q062",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 3,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Cytoprotection during chemotherapy",
+      "slug": "february-2006-short-3-cytoprotection-during-chemotherapy"
+    },
+    {
+      "id": "Q063",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 4,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Chemoprevention of cancer",
+      "slug": "february-2006-short-4-chemoprevention-of-cancer"
+    },
+    {
+      "id": "Q064",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 5,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Chemotherapy for mesothelioma",
+      "slug": "february-2006-short-5-chemotherapy-for-mesothelioma"
+    },
+    {
+      "id": "Q065",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 6,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Imatinib mesylate",
+      "slug": "february-2006-short-6-imatinib-mesylate"
+    },
+    {
+      "id": "Q066",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 7,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Treatment of gastric lymphoma",
+      "slug": "february-2006-short-7-treatment-of-gastric-lymphoma"
+    },
+    {
+      "id": "Q067",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 8,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Immunohistochemistry for small round cell tumors",
+      "slug": "february-2006-short-8-immunohistochemistry-for-small-round-cell-tumors"
+    },
+    {
+      "id": "Q068",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 9,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Radioimmunopharmaceuticals in hematologic malignancies",
+      "slug": "february-2006-short-9-radioimmunopharmaceuticals-in-hematologic-malignancies"
+    },
+    {
+      "id": "Q069",
+      "exam": "February 2006",
+      "code": "KO 020",
+      "type": "short",
+      "number": 10,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Somatostatin",
+      "slug": "february-2006-short-10-somatostatin"
+    },
+    {
+      "id": "Q070",
+      "exam": "September 2006",
+      "code": "KP 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Critically evaluate the role of sentinel lymph node biopsy, along with the various techniques used, in the management of tumours at different sites.",
+      "slug": "september-2006-essay-1-critically-evaluate-the-role-of-sentinel-lymph-node-biops",
+      "era": "early"
+    },
+    {
+      "id": "Q071",
+      "exam": "September 2006",
+      "code": "KP 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss the etiopathogenesis of deep vein thrombosis in cancer. Suggest an investigative work-up and outline a management approach.",
+      "slug": "september-2006-essay-2-discuss-the-etiopathogenesis-of-deep-vein-thrombosis-in-c",
+      "era": "early"
+    },
+    {
+      "id": "Q072",
+      "exam": "September 2006",
+      "code": "KP 020",
+      "type": "essay",
+      "number": 3,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss neoplastic angiogenesis and antiangiogenesis therapy.",
+      "slug": "september-2006-essay-3-discuss-neoplastic-angiogenesis-and-antiangiogenesis-ther",
+      "era": "early"
+    },
+    {
+      "id": "Q073",
+      "exam": "September 2006",
+      "code": "KP 020",
+      "type": "short",
+      "number": 1,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Chemoradiotherapy in the management of carcinoma of the anal canal",
+      "slug": "september-2006-short-1-chemoradiotherapy-in-the-management-of-carcinoma-of-the-a"
+    },
+    {
+      "id": "Q074",
+      "exam": "September 2006",
+      "code": "KP 020",
+      "type": "short",
+      "number": 2,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Management of metastatic endometrial stromal sarcoma",
+      "slug": "september-2006-short-2-management-of-metastatic-endometrial-stromal-sarcoma"
+    },
+    {
+      "id": "Q075",
+      "exam": "September 2006",
+      "code": "KP 020",
+      "type": "short",
+      "number": 3,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Cyclooxygenase-2 (COX-2) inhibitors in prevention of cancer",
+      "slug": "september-2006-short-3-cyclooxygenase-2-cox-2-inhibitors-in-prevention-of-cancer"
+    },
+    {
+      "id": "Q076",
+      "exam": "September 2006",
+      "code": "KP 020",
+      "type": "short",
+      "number": 4,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Temozolomide for metastatic brain tumours",
+      "slug": "september-2006-short-4-temozolomide-for-metastatic-brain-tumours"
+    },
+    {
+      "id": "Q077",
+      "exam": "September 2006",
+      "code": "KP 020",
+      "type": "short",
+      "number": 5,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Magnetic resonance spectroscopy",
+      "slug": "september-2006-short-5-magnetic-resonance-spectroscopy"
+    },
+    {
+      "id": "Q078",
+      "exam": "September 2006",
+      "code": "KP 020",
+      "type": "short",
+      "number": 6,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Suicide gene therapy",
+      "slug": "september-2006-short-6-suicide-gene-therapy"
+    },
+    {
+      "id": "Q079",
+      "exam": "February 2007",
+      "code": "KQ 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Critically evaluate breast conservative surgery versus radical surgery in the management of breast cancer.",
+      "slug": "february-2007-essay-1-critically-evaluate-breast-conservative-surgery-versus-rad",
+      "era": "early"
+    },
+    {
+      "id": "Q080",
+      "exam": "February 2007",
+      "code": "KQ 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss immuno-surveillance mechanisms and the different immunotherapeutic strategies.",
+      "slug": "february-2007-essay-2-discuss-immuno-surveillance-mechanisms-and-the-different-i",
+      "era": "early"
+    },
+    {
+      "id": "Q081",
+      "exam": "February 2007",
+      "code": "KQ 020",
+      "type": "essay",
+      "number": 3,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss the plasma cell\u2013stromal interactions in multiple myeloma and various therapeutic strategies in the treatment of myeloma.",
+      "slug": "february-2007-essay-3-discuss-the-plasma-cell-stromal-interactions-in-multiple-m",
+      "era": "early"
+    },
+    {
+      "id": "Q082",
+      "exam": "February 2007",
+      "code": "KQ 020",
+      "type": "short",
+      "number": 1,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Chemoradiotherapy in the management of carcinoma of cervix",
+      "slug": "february-2007-short-1-chemoradiotherapy-in-the-management-of-carcinoma-of-cervix"
+    },
+    {
+      "id": "Q083",
+      "exam": "February 2007",
+      "code": "KQ 020",
+      "type": "short",
+      "number": 2,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Metastatic renal cell carcinoma",
+      "slug": "february-2007-short-2-metastatic-renal-cell-carcinoma"
+    },
+    {
+      "id": "Q084",
+      "exam": "February 2007",
+      "code": "KQ 020",
+      "type": "short",
+      "number": 3,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Prevention of oral cancer",
+      "slug": "february-2007-short-3-prevention-of-oral-cancer"
+    },
+    {
+      "id": "Q085",
+      "exam": "February 2007",
+      "code": "KQ 020",
+      "type": "short",
+      "number": 4,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Dendritic cell vaccines",
+      "slug": "february-2007-short-4-dendritic-cell-vaccines"
+    },
+    {
+      "id": "Q086",
+      "exam": "February 2007",
+      "code": "KQ 020",
+      "type": "short",
+      "number": 5,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Carcinomatous meningitis",
+      "slug": "february-2007-short-5-carcinomatous-meningitis"
+    },
+    {
+      "id": "Q087",
+      "exam": "February 2007",
+      "code": "KQ 020",
+      "type": "short",
+      "number": 6,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "LASER in the management of cancer of the upper aerodigestive tract",
+      "slug": "february-2007-short-6-laser-in-the-management-of-cancer-of-the-upper-aerodigesti"
+    },
+    {
+      "id": "Q088",
+      "exam": "August 2007",
+      "code": "KR 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss the phases of clinical trials in cancer. Enumerate the pros and cons of using Indian patients in multinational clinical trials.",
+      "slug": "august-2007-essay-1-discuss-the-phases-of-clinical-trials-in-cancer-enumerate-th",
+      "era": "early"
+    },
+    {
+      "id": "Q089",
+      "exam": "August 2007",
+      "code": "KR 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "Discuss the role of antifungal drugs in the management of febrile neutropenia in the remission induction therapy of acute leukemias.",
+      "slug": "august-2007-essay-2-discuss-the-role-of-antifungal-drugs-in-the-management-of-fe",
+      "era": "early"
+    },
+    {
+      "id": "Q090",
+      "exam": "August 2007",
+      "code": "KR 020",
+      "type": "essay",
+      "number": 3,
+      "marks": 15,
+      "target_pages": 15,
+      "question": "\u2018Cancer is a multistep process\u2019 \u2013 Explain with the example of head and neck cancer. What could be possible interventions at each step?",
+      "slug": "august-2007-essay-3-cancer-is-a-multistep-process-explain-with-the-example-of-he",
+      "era": "early"
+    },
+    {
+      "id": "Q091",
+      "exam": "August 2007",
+      "code": "KR 020",
+      "type": "short",
+      "number": 1,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Microarrays in breast cancer",
+      "slug": "august-2007-short-1-microarrays-in-breast-cancer"
+    },
+    {
+      "id": "Q092",
+      "exam": "August 2007",
+      "code": "KR 020",
+      "type": "short",
+      "number": 2,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Immunoconjugates for cancer therapy",
+      "slug": "august-2007-short-2-immunoconjugates-for-cancer-therapy"
+    },
+    {
+      "id": "Q093",
+      "exam": "August 2007",
+      "code": "KR 020",
+      "type": "short",
+      "number": 3,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Compare and contrast 5-Fluorouracil and Capecitabine",
+      "slug": "august-2007-short-3-compare-and-contrast-5-fluorouracil-and-capecitabine"
+    },
+    {
+      "id": "Q094",
+      "exam": "August 2007",
+      "code": "KR 020",
+      "type": "short",
+      "number": 4,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Compare and contrast liposomal and non-liposomal doxorubicin",
+      "slug": "august-2007-short-4-compare-and-contrast-liposomal-and-non-liposomal-doxorubicin"
+    },
+    {
+      "id": "Q095",
+      "exam": "August 2007",
+      "code": "KR 020",
+      "type": "short",
+      "number": 5,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Post-transfusion graft versus host disease",
+      "slug": "august-2007-short-5-post-transfusion-graft-versus-host-disease"
+    },
+    {
+      "id": "Q096",
+      "exam": "August 2007",
+      "code": "KR 020",
+      "type": "short",
+      "number": 6,
+      "marks": 5,
+      "target_pages": 10,
+      "question": "Pulmonary blastoma",
+      "slug": "august-2007-short-6-pulmonary-blastoma"
+    },
+    {
+      "id": "Q097",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "essay",
+      "number": 1,
+      "marks": 20,
+      "target_pages": 15,
+      "question": "Discuss the pathophysiology of pain and the advances in the management of acute pain in subjects with cancer.",
+      "slug": "february-2008-essay-1-discuss-the-pathophysiology-of-pain-and-the-advances-in-th",
+      "era": "early"
+    },
+    {
+      "id": "Q098",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "essay",
+      "number": 2,
+      "marks": 20,
+      "target_pages": 15,
+      "question": "Discuss the status of geriatric assessment in the elderly and briefly elaborate on the treatment of older subjects with colorectal cancer.",
+      "slug": "february-2008-essay-2-discuss-the-status-of-geriatric-assessment-in-the-elderly-",
+      "era": "early"
+    },
+    {
+      "id": "Q099",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 1,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Extreme drug resistance assay",
+      "slug": "february-2008-short-1-extreme-drug-resistance-assay"
+    },
+    {
+      "id": "Q100",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 2,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Vulnerable population in clinical research",
+      "slug": "february-2008-short-2-vulnerable-population-in-clinical-research"
+    },
+    {
+      "id": "Q101",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 3,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Bexarotene",
+      "slug": "february-2008-short-3-bexarotene"
+    },
+    {
+      "id": "Q102",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 4,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Transfusion related acute lung injury (TRALI)",
+      "slug": "february-2008-short-4-transfusion-related-acute-lung-injury-trali"
+    },
+    {
+      "id": "Q103",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 5,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Molecular imaging",
+      "slug": "february-2008-short-5-molecular-imaging"
+    },
+    {
+      "id": "Q104",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 6,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Prognostic factors in myelodysplastic syndrome",
+      "slug": "february-2008-short-6-prognostic-factors-in-myelodysplastic-syndrome"
+    },
+    {
+      "id": "Q105",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 7,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Differentiating agents",
+      "slug": "february-2008-short-7-differentiating-agents"
+    },
+    {
+      "id": "Q106",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 8,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Bortezomib",
+      "slug": "february-2008-short-8-bortezomib"
+    },
+    {
+      "id": "Q107",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 9,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Preventable cancer",
+      "slug": "february-2008-short-9-preventable-cancer"
+    },
+    {
+      "id": "Q108",
+      "exam": "February 2008",
+      "code": "KS 020",
+      "type": "short",
+      "number": 10,
+      "marks": 6,
+      "target_pages": 10,
+      "question": "Neuroendocrine tumours",
+      "slug": "february-2008-short-10-neuroendocrine-tumours"
+    },
+    {
+      "id": "Q109",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "essay",
@@ -13,7 +1228,7 @@
       "slug": "august-2008-essay-1-discuss-the-pathophysiology-of-hemopoiesis-and-the-current-s"
     },
     {
-      "id": "Q002",
+      "id": "Q110",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "essay",
@@ -24,7 +1239,7 @@
       "slug": "august-2008-essay-2-elaborate-the-role-of-molecular-targeted-therapy-in-the-trea"
     },
     {
-      "id": "Q003",
+      "id": "Q111",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -35,7 +1250,7 @@
       "slug": "august-2008-short-1-directed-donation"
     },
     {
-      "id": "Q004",
+      "id": "Q112",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -46,7 +1261,7 @@
       "slug": "august-2008-short-2-osteoarticular-allograft"
     },
     {
-      "id": "Q005",
+      "id": "Q113",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -57,7 +1272,7 @@
       "slug": "august-2008-short-3-thrombopoietin"
     },
     {
-      "id": "Q006",
+      "id": "Q114",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -68,7 +1283,7 @@
       "slug": "august-2008-short-4-mammalian-target-of-rapamycin-inhibitors-mtor"
     },
     {
-      "id": "Q007",
+      "id": "Q115",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -79,7 +1294,7 @@
       "slug": "august-2008-short-5-graft-versus-myeloma-effect"
     },
     {
-      "id": "Q008",
+      "id": "Q116",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -90,7 +1305,7 @@
       "slug": "august-2008-short-6-proteasome-inhibitor"
     },
     {
-      "id": "Q009",
+      "id": "Q117",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -101,7 +1316,7 @@
       "slug": "august-2008-short-7-thallium-201-imaging"
     },
     {
-      "id": "Q010",
+      "id": "Q118",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -112,7 +1327,7 @@
       "slug": "august-2008-short-8-terminally-ill-children-issue-of-support"
     },
     {
-      "id": "Q011",
+      "id": "Q119",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -123,7 +1338,7 @@
       "slug": "august-2008-short-9-neurocognitive-sequelae-of-children-treated-with-radiation"
     },
     {
-      "id": "Q012",
+      "id": "Q120",
       "exam": "August 2008",
       "code": "KT 020",
       "type": "short",
@@ -134,7 +1349,7 @@
       "slug": "august-2008-short-10-central-venous-catheter-infection"
     },
     {
-      "id": "Q013",
+      "id": "Q121",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "essay",
@@ -145,7 +1360,7 @@
       "slug": "february-2009-essay-1-write-a-short-essay-on-epigenetics"
     },
     {
-      "id": "Q014",
+      "id": "Q122",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "essay",
@@ -156,7 +1371,7 @@
       "slug": "february-2009-essay-2-cancer-is-a-multistep-process-explain-with-the-example-of-"
     },
     {
-      "id": "Q015",
+      "id": "Q123",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -167,7 +1382,7 @@
       "slug": "february-2009-short-1-bortezomib"
     },
     {
-      "id": "Q016",
+      "id": "Q124",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -178,7 +1393,7 @@
       "slug": "february-2009-short-2-treatment-of-cns-leukemia"
     },
     {
-      "id": "Q017",
+      "id": "Q125",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -189,7 +1404,7 @@
       "slug": "february-2009-short-3-t-cell-non-hodgkin-s-lymphoma"
     },
     {
-      "id": "Q018",
+      "id": "Q126",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -200,7 +1415,7 @@
       "slug": "february-2009-short-4-allogeneic-stem-cell-transplantation-for-immunodeficiency-"
     },
     {
-      "id": "Q019",
+      "id": "Q127",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -211,7 +1426,7 @@
       "slug": "february-2009-short-5-role-of-immunohistochemistry-in-the-diagnosis-of-unknown-p"
     },
     {
-      "id": "Q020",
+      "id": "Q128",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -222,7 +1437,7 @@
       "slug": "february-2009-short-6-management-of-invasive-aspergillosis"
     },
     {
-      "id": "Q021",
+      "id": "Q129",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -233,7 +1448,7 @@
       "slug": "february-2009-short-7-treatment-of-superior-vena-cava-obstruction"
     },
     {
-      "id": "Q022",
+      "id": "Q130",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -244,7 +1459,7 @@
       "slug": "february-2009-short-8-differential-diagnosis-of-ovarian-mass-in-a-15-year-old-gi"
     },
     {
-      "id": "Q023",
+      "id": "Q131",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -255,7 +1470,7 @@
       "slug": "february-2009-short-9-communication-skills-in-oncology-care"
     },
     {
-      "id": "Q024",
+      "id": "Q132",
       "exam": "February 2009",
       "code": "KU 020",
       "type": "short",
@@ -266,7 +1481,7 @@
       "slug": "february-2009-short-10-merits-and-demerits-of-treatment-in-asymptomatic-early-st"
     },
     {
-      "id": "Q025",
+      "id": "Q133",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "essay",
@@ -277,7 +1492,7 @@
       "slug": "august-2009-essay-1-discuss-briefly-the-recent-developments-in-pathology-molecul"
     },
     {
-      "id": "Q026",
+      "id": "Q134",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "essay",
@@ -288,7 +1503,7 @@
       "slug": "august-2009-essay-2-management-of-imatinib-resistant-chronic-myeloid-leukemia"
     },
     {
-      "id": "Q027",
+      "id": "Q135",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -299,7 +1514,7 @@
       "slug": "august-2009-short-1-kras"
     },
     {
-      "id": "Q028",
+      "id": "Q136",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -310,7 +1525,7 @@
       "slug": "august-2009-short-2-recist-pd-criteria"
     },
     {
-      "id": "Q029",
+      "id": "Q137",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -321,7 +1536,7 @@
       "slug": "august-2009-short-3-lapatinib"
     },
     {
-      "id": "Q030",
+      "id": "Q138",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -332,7 +1547,7 @@
       "slug": "august-2009-short-4-igrt-image-guided-radiotherapy"
     },
     {
-      "id": "Q031",
+      "id": "Q139",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -343,7 +1558,7 @@
       "slug": "august-2009-short-5-multikinase-inhibitors"
     },
     {
-      "id": "Q032",
+      "id": "Q140",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -354,7 +1569,7 @@
       "slug": "august-2009-short-6-chemoport"
     },
     {
-      "id": "Q033",
+      "id": "Q141",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -365,7 +1580,7 @@
       "slug": "august-2009-short-7-gvhd"
     },
     {
-      "id": "Q034",
+      "id": "Q142",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -376,7 +1591,7 @@
       "slug": "august-2009-short-8-molecular-targeted-therapy-in-renal-cell-carcinoma"
     },
     {
-      "id": "Q035",
+      "id": "Q143",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -387,7 +1602,7 @@
       "slug": "august-2009-short-9-chemoprevention"
     },
     {
-      "id": "Q036",
+      "id": "Q144",
       "exam": "August 2009",
       "code": "KV 020",
       "type": "short",
@@ -398,7 +1613,7 @@
       "slug": "august-2009-short-10-management-of-mesothelioma"
     },
     {
-      "id": "Q037",
+      "id": "Q145",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "essay",
@@ -409,7 +1624,7 @@
       "slug": "august-2011-essay-1-discuss-in-detail-adoptive-cell-therapy-in-treatment-of-canc"
     },
     {
-      "id": "Q038",
+      "id": "Q146",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "essay",
@@ -420,7 +1635,7 @@
       "slug": "august-2011-essay-2-discuss-the-current-status-of-individualized-treatment-for-c"
     },
     {
-      "id": "Q039",
+      "id": "Q147",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -431,7 +1646,7 @@
       "slug": "august-2011-short-1-electronic-medical-records"
     },
     {
-      "id": "Q040",
+      "id": "Q148",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -442,7 +1657,7 @@
       "slug": "august-2011-short-2-robotic-surgery-in-oncology"
     },
     {
-      "id": "Q041",
+      "id": "Q149",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -453,7 +1668,7 @@
       "slug": "august-2011-short-3-bendamustine"
     },
     {
-      "id": "Q042",
+      "id": "Q150",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -464,7 +1679,7 @@
       "slug": "august-2011-short-4-radiation-induced-cardiotoxicity"
     },
     {
-      "id": "Q043",
+      "id": "Q151",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -475,7 +1690,7 @@
       "slug": "august-2011-short-5-olaparib"
     },
     {
-      "id": "Q044",
+      "id": "Q152",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -486,7 +1701,7 @@
       "slug": "august-2011-short-6-image-guided-radiotherapy-igrt"
     },
     {
-      "id": "Q045",
+      "id": "Q153",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -497,7 +1712,7 @@
       "slug": "august-2011-short-7-genitourinary-rhabdomyosarcoma"
     },
     {
-      "id": "Q046",
+      "id": "Q154",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -508,7 +1723,7 @@
       "slug": "august-2011-short-8-carcinosarcoma-of-uterus"
     },
     {
-      "id": "Q047",
+      "id": "Q155",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -519,7 +1734,7 @@
       "slug": "august-2011-short-9-thalidomide"
     },
     {
-      "id": "Q048",
+      "id": "Q156",
       "exam": "August 2011",
       "code": "KZ 020",
       "type": "short",
@@ -530,7 +1745,7 @@
       "slug": "august-2011-short-10-myelofibrosis"
     },
     {
-      "id": "Q049",
+      "id": "Q157",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "essay",
@@ -541,7 +1756,7 @@
       "slug": "august-2012-essay-1-discuss-in-detail-the-role-of-targeted-therapy-and-recent-ad"
     },
     {
-      "id": "Q050",
+      "id": "Q158",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "essay",
@@ -552,7 +1767,7 @@
       "slug": "august-2012-essay-2-critically-analyse-the-role-and-issues-regarding-intraperito"
     },
     {
-      "id": "Q051",
+      "id": "Q159",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -563,7 +1778,7 @@
       "slug": "august-2012-short-1-indications-and-contraindications-of-total-parenteral-nutrit"
     },
     {
-      "id": "Q052",
+      "id": "Q160",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -574,7 +1789,7 @@
       "slug": "august-2012-short-2-algorithm-for-cancer-pain-management"
     },
     {
-      "id": "Q053",
+      "id": "Q161",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -585,7 +1800,7 @@
       "slug": "august-2012-short-3-utility-of-erlotinib-in-solid-tumour-oncology"
     },
     {
-      "id": "Q054",
+      "id": "Q162",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -596,7 +1811,7 @@
       "slug": "august-2012-short-4-definition-and-indications-of-haploidentical-stem-cell-trans"
     },
     {
-      "id": "Q055",
+      "id": "Q163",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -607,7 +1822,7 @@
       "slug": "august-2012-short-5-recent-advances-in-systemic-therapy-in-non-small-cell-lung-c"
     },
     {
-      "id": "Q056",
+      "id": "Q164",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -618,7 +1833,7 @@
       "slug": "august-2012-short-6-accelerated-approval-of-cancer-drugs"
     },
     {
-      "id": "Q057",
+      "id": "Q165",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -629,7 +1844,7 @@
       "slug": "august-2012-short-7-definition-and-issues-involved-in-euthanasia-and-physician-a"
     },
     {
-      "id": "Q058",
+      "id": "Q166",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -640,7 +1855,7 @@
       "slug": "august-2012-short-8-clinical-indications-and-toxicity-of-trastuzumab"
     },
     {
-      "id": "Q059",
+      "id": "Q167",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -651,7 +1866,7 @@
       "slug": "august-2012-short-9-recent-advances-in-the-management-of-hormone-refractory-pros"
     },
     {
-      "id": "Q060",
+      "id": "Q168",
       "exam": "August 2012",
       "code": "LB 020",
       "type": "short",
@@ -662,7 +1877,7 @@
       "slug": "august-2012-short-10-current-role-of-pet-scan-in-patients-with-lymphomas"
     },
     {
-      "id": "Q061",
+      "id": "Q169",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "essay",
@@ -673,7 +1888,7 @@
       "slug": "august-2013-essay-1-discuss-in-detail-the-role-of-targeted-therapy-in-oncology"
     },
     {
-      "id": "Q062",
+      "id": "Q170",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "essay",
@@ -684,7 +1899,7 @@
       "slug": "august-2013-essay-2-indications-contraindications-methodology-and-side-effects-o"
     },
     {
-      "id": "Q063",
+      "id": "Q171",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -695,7 +1910,7 @@
       "slug": "august-2013-short-1-nanotechnology-in-oncology"
     },
     {
-      "id": "Q064",
+      "id": "Q172",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -706,7 +1921,7 @@
       "slug": "august-2013-short-2-active-specific-immunotherapy-for-cancer"
     },
     {
-      "id": "Q065",
+      "id": "Q173",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -717,7 +1932,7 @@
       "slug": "august-2013-short-3-3rd-generation-pgp-p-glycoprotein-inhibitors"
     },
     {
-      "id": "Q066",
+      "id": "Q174",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -728,7 +1943,7 @@
       "slug": "august-2013-short-4-differentiating-agents-in-the-treatment-of-cancer"
     },
     {
-      "id": "Q067",
+      "id": "Q175",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -739,7 +1954,7 @@
       "slug": "august-2013-short-5-hnpcc-prevention"
     },
     {
-      "id": "Q068",
+      "id": "Q176",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -750,7 +1965,7 @@
       "slug": "august-2013-short-6-sorafenib"
     },
     {
-      "id": "Q069",
+      "id": "Q177",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -761,7 +1976,7 @@
       "slug": "august-2013-short-7-radiofrequency-ablation"
     },
     {
-      "id": "Q070",
+      "id": "Q178",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -772,7 +1987,7 @@
       "slug": "august-2013-short-8-vandetanib"
     },
     {
-      "id": "Q071",
+      "id": "Q179",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -783,7 +1998,7 @@
       "slug": "august-2013-short-9-metronomic-chemotherapy"
     },
     {
-      "id": "Q072",
+      "id": "Q180",
       "exam": "August 2013",
       "code": "LD 020",
       "type": "short",
@@ -794,7 +2009,7 @@
       "slug": "august-2013-short-10-predictive-molecular-tests-in-cancer-management"
     },
     {
-      "id": "Q073",
+      "id": "Q181",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "essay",
@@ -805,7 +2020,7 @@
       "slug": "august-2014-essay-1-recent-advances-in-treatment-of-her2-positive-breast-cancer"
     },
     {
-      "id": "Q074",
+      "id": "Q182",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "essay",
@@ -816,7 +2031,7 @@
       "slug": "august-2014-essay-2-discuss-in-detail-about-cytogenetics-molecular-abnormalities"
     },
     {
-      "id": "Q075",
+      "id": "Q183",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -827,7 +2042,7 @@
       "slug": "august-2014-short-1-eribulin"
     },
     {
-      "id": "Q076",
+      "id": "Q184",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -838,7 +2053,7 @@
       "slug": "august-2014-short-2-targeted-therapy-in-hodgkin-s-lymphoma"
     },
     {
-      "id": "Q077",
+      "id": "Q185",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -849,7 +2064,7 @@
       "slug": "august-2014-short-3-ramucirumab-in-colorectal-cancer"
     },
     {
-      "id": "Q078",
+      "id": "Q186",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -860,7 +2075,7 @@
       "slug": "august-2014-short-4-nutritional-assessment-and-intervention-in-cancer-patients"
     },
     {
-      "id": "Q079",
+      "id": "Q187",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -871,7 +2086,7 @@
       "slug": "august-2014-short-5-role-of-androgen-receptor-in-breast-cancer-management"
     },
     {
-      "id": "Q080",
+      "id": "Q188",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -882,7 +2097,7 @@
       "slug": "august-2014-short-6-immunotherapy-in-malignant-melanoma"
     },
     {
-      "id": "Q081",
+      "id": "Q189",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -893,7 +2108,7 @@
       "slug": "august-2014-short-7-surgery-vs-observation-following-neoadjuvant-chemoradiation-"
     },
     {
-      "id": "Q082",
+      "id": "Q190",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -904,7 +2119,7 @@
       "slug": "august-2014-short-8-charged-particle-beams-in-radiation-advantages-and-disadvant"
     },
     {
-      "id": "Q083",
+      "id": "Q191",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -915,7 +2130,7 @@
       "slug": "august-2014-short-9-granulosa-cell-tumours-of-the-ovary"
     },
     {
-      "id": "Q084",
+      "id": "Q192",
       "exam": "August 2014",
       "code": "LF 020",
       "type": "short",
@@ -926,7 +2141,7 @@
       "slug": "august-2014-short-10-how-do-you-assess-cost-effectiveness-and-use-it-in-decision"
     },
     {
-      "id": "Q085",
+      "id": "Q193",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "essay",
@@ -937,7 +2152,7 @@
       "slug": "august-2015-essay-1-unique-biology-of-triple-negative-breast-cancer-and-targeted"
     },
     {
-      "id": "Q086",
+      "id": "Q194",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "essay",
@@ -948,7 +2163,7 @@
       "slug": "august-2015-essay-2-perioperative-and-neoadjuvant-chemotherapy-in-gastric-cancer"
     },
     {
-      "id": "Q087",
+      "id": "Q195",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -959,7 +2174,7 @@
       "slug": "august-2015-short-1-role-of-radiation-therapy-in-organ-preservation"
     },
     {
-      "id": "Q088",
+      "id": "Q196",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -970,7 +2185,7 @@
       "slug": "august-2015-short-2-second-malignancies-after-treatment-of-hodgkin-lymphoma"
     },
     {
-      "id": "Q089",
+      "id": "Q197",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -981,7 +2196,7 @@
       "slug": "august-2015-short-3-role-of-chemotherapy-in-retinoblastoma"
     },
     {
-      "id": "Q090",
+      "id": "Q198",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -992,7 +2207,7 @@
       "slug": "august-2015-short-4-nfkb-signalling-in-drug-resistance-explain-with-examples"
     },
     {
-      "id": "Q091",
+      "id": "Q199",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -1003,7 +2218,7 @@
       "slug": "august-2015-short-5-myeloid-sarcoma-and-its-management"
     },
     {
-      "id": "Q092",
+      "id": "Q200",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -1014,7 +2229,7 @@
       "slug": "august-2015-short-6-mechanisms-of-resistance-to-antiangiogenic-therapy"
     },
     {
-      "id": "Q093",
+      "id": "Q201",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -1025,7 +2240,7 @@
       "slug": "august-2015-short-7-stereotactic-radiosurgery"
     },
     {
-      "id": "Q094",
+      "id": "Q202",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -1036,7 +2251,7 @@
       "slug": "august-2015-short-8-emilia-trial"
     },
     {
-      "id": "Q095",
+      "id": "Q203",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -1047,7 +2262,7 @@
       "slug": "august-2015-short-9-management-of-ductal-carcinoma-in-situ"
     },
     {
-      "id": "Q096",
+      "id": "Q204",
       "exam": "August 2015",
       "code": "LH 020",
       "type": "short",
@@ -1058,7 +2273,7 @@
       "slug": "august-2015-short-10-chemotherapy-in-soft-tissue-sarcoma"
     },
     {
-      "id": "Q097",
+      "id": "Q205",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "essay",
@@ -1069,7 +2284,7 @@
       "slug": "february-2016-essay-1-discuss-the-pathology-pathogenesis-risk-assessment-and-tre"
     },
     {
-      "id": "Q098",
+      "id": "Q206",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "essay",
@@ -1080,7 +2295,7 @@
       "slug": "february-2016-essay-2-discuss-the-role-of-chemotherapy-in-early-breast-cancer"
     },
     {
-      "id": "Q099",
+      "id": "Q207",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1091,7 +2306,7 @@
       "slug": "february-2016-short-1-targeted-therapy-in-colon-cancer"
     },
     {
-      "id": "Q100",
+      "id": "Q208",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1102,7 +2317,7 @@
       "slug": "february-2016-short-2-plerixafor"
     },
     {
-      "id": "Q101",
+      "id": "Q209",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1113,7 +2328,7 @@
       "slug": "february-2016-short-3-chemoradiotherapy-in-rectal-cancer"
     },
     {
-      "id": "Q102",
+      "id": "Q210",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1124,7 +2339,7 @@
       "slug": "february-2016-short-4-stopping-tki-in-cml"
     },
     {
-      "id": "Q103",
+      "id": "Q211",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1135,7 +2350,7 @@
       "slug": "february-2016-short-5-advances-in-treatment-of-anaplastic-large-cell-lymphoma"
     },
     {
-      "id": "Q104",
+      "id": "Q212",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1146,7 +2361,7 @@
       "slug": "february-2016-short-6-accelerated-drug-approval"
     },
     {
-      "id": "Q105",
+      "id": "Q213",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1157,7 +2372,7 @@
       "slug": "february-2016-short-7-management-of-tki-rash"
     },
     {
-      "id": "Q106",
+      "id": "Q214",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1168,7 +2383,7 @@
       "slug": "february-2016-short-8-empiric-therapy-of-carcinoma-of-unknown-primary"
     },
     {
-      "id": "Q107",
+      "id": "Q215",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1179,7 +2394,7 @@
       "slug": "february-2016-short-9-management-of-intraocular-retinoblastoma"
     },
     {
-      "id": "Q108",
+      "id": "Q216",
       "exam": "February 2016",
       "code": "LI 020",
       "type": "short",
@@ -1190,7 +2405,7 @@
       "slug": "february-2016-short-10-management-of-malignant-pleural-effusion"
     },
     {
-      "id": "Q109",
+      "id": "Q217",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "essay",
@@ -1201,7 +2416,7 @@
       "slug": "august-2016-essay-1-describe-the-role-of-pet-scan-in-early-stage-hodgkin-lymphom"
     },
     {
-      "id": "Q110",
+      "id": "Q218",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "essay",
@@ -1212,7 +2427,7 @@
       "slug": "august-2016-essay-2-describe-the-etiology-and-molecular-profile-in-the-developme"
     },
     {
-      "id": "Q111",
+      "id": "Q219",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1223,7 +2438,7 @@
       "slug": "august-2016-short-1-recent-development-in-the-management-of-malignant-melanoma"
     },
     {
-      "id": "Q112",
+      "id": "Q220",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1234,7 +2449,7 @@
       "slug": "august-2016-short-2-role-of-medical-oncologist-in-the-management-of-operable-ear"
     },
     {
-      "id": "Q113",
+      "id": "Q221",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1245,7 +2460,7 @@
       "slug": "august-2016-short-3-late-sequelae-of-radiotherapy-in-hodgkin-s-lymphoma"
     },
     {
-      "id": "Q114",
+      "id": "Q222",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1256,7 +2471,7 @@
       "slug": "august-2016-short-4-cytotoxic-t-lymphocyte-associated-antigen-4-ctla-4"
     },
     {
-      "id": "Q115",
+      "id": "Q223",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1267,7 +2482,7 @@
       "slug": "august-2016-short-5-vorinostat"
     },
     {
-      "id": "Q116",
+      "id": "Q224",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1278,7 +2493,7 @@
       "slug": "august-2016-short-6-oligometastasis"
     },
     {
-      "id": "Q117",
+      "id": "Q225",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1289,7 +2504,7 @@
       "slug": "august-2016-short-7-tositumomab"
     },
     {
-      "id": "Q118",
+      "id": "Q226",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1300,7 +2515,7 @@
       "slug": "august-2016-short-8-recent-advances-in-managing-bone-pain"
     },
     {
-      "id": "Q119",
+      "id": "Q227",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1311,7 +2526,7 @@
       "slug": "august-2016-short-9-targeted-therapy-of-flt3-positive-acute-myeloid-leukemia"
     },
     {
-      "id": "Q120",
+      "id": "Q228",
       "exam": "August 2016",
       "code": "LJ 020",
       "type": "short",
@@ -1322,7 +2537,7 @@
       "slug": "august-2016-short-10-pazopanib"
     },
     {
-      "id": "Q121",
+      "id": "Q229",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "essay",
@@ -1333,7 +2548,7 @@
       "slug": "february-2017-essay-1-discuss-the-checkpoint-inhibitors-and-their-clinical-appli"
     },
     {
-      "id": "Q122",
+      "id": "Q230",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "essay",
@@ -1344,7 +2559,7 @@
       "slug": "february-2017-essay-2-discuss-the-recent-advances-in-management-of-chronic-myelo"
     },
     {
-      "id": "Q123",
+      "id": "Q231",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1355,7 +2570,7 @@
       "slug": "february-2017-short-1-proton-beam-therapy"
     },
     {
-      "id": "Q124",
+      "id": "Q232",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1366,7 +2581,7 @@
       "slug": "february-2017-short-2-maintenance-rituximab-in-lymphoma"
     },
     {
-      "id": "Q125",
+      "id": "Q233",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1377,7 +2592,7 @@
       "slug": "february-2017-short-3-pi3-kinase-and-mtor-pathway-in-breast-cancer"
     },
     {
-      "id": "Q126",
+      "id": "Q234",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1388,7 +2603,7 @@
       "slug": "february-2017-short-4-next-generation-sequencing"
     },
     {
-      "id": "Q127",
+      "id": "Q235",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1399,7 +2614,7 @@
       "slug": "february-2017-short-5-upfront-chemotherapy-in-prostate-cancer"
     },
     {
-      "id": "Q128",
+      "id": "Q236",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1410,7 +2625,7 @@
       "slug": "february-2017-short-6-liquid-biopsy-in-cancer"
     },
     {
-      "id": "Q129",
+      "id": "Q237",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1421,7 +2636,7 @@
       "slug": "february-2017-short-7-management-of-hand-foot-syndrome"
     },
     {
-      "id": "Q130",
+      "id": "Q238",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1432,7 +2647,7 @@
       "slug": "february-2017-short-8-abiraterone"
     },
     {
-      "id": "Q131",
+      "id": "Q239",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1443,7 +2658,7 @@
       "slug": "february-2017-short-9-recent-advances-in-management-of-primary-cns-lymphoma"
     },
     {
-      "id": "Q132",
+      "id": "Q240",
       "exam": "February 2017",
       "code": "LK 020",
       "type": "short",
@@ -1454,7 +2669,7 @@
       "slug": "february-2017-short-10-newer-drugs-in-myeloma"
     },
     {
-      "id": "Q133",
+      "id": "Q241",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "essay",
@@ -1465,7 +2680,7 @@
       "slug": "august-2017-essay-1-pathogenesis-diagnosis-and-management-of-cml-and-newer-drugs"
     },
     {
-      "id": "Q134",
+      "id": "Q242",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "essay",
@@ -1476,7 +2691,7 @@
       "slug": "august-2017-essay-2-management-of-axilla-role-of-axillary-lymph-node-dissection-"
     },
     {
-      "id": "Q135",
+      "id": "Q243",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1487,7 +2702,7 @@
       "slug": "august-2017-short-1-neoadjuvant-her2-targeted-therapy-in-breast-cancer"
     },
     {
-      "id": "Q136",
+      "id": "Q244",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1498,7 +2713,7 @@
       "slug": "august-2017-short-2-early-intensification-treatment-approach-in-advanced-hodgkin"
     },
     {
-      "id": "Q137",
+      "id": "Q245",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1509,7 +2724,7 @@
       "slug": "august-2017-short-3-rasburicase"
     },
     {
-      "id": "Q138",
+      "id": "Q246",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1520,7 +2735,7 @@
       "slug": "august-2017-short-4-preservation-of-fertility-during-chemotherapy-for-breast-can"
     },
     {
-      "id": "Q139",
+      "id": "Q247",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1531,7 +2746,7 @@
       "slug": "august-2017-short-5-autologous-bone-marrow-transplant-in-multiple-myeloma"
     },
     {
-      "id": "Q140",
+      "id": "Q248",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1542,7 +2757,7 @@
       "slug": "august-2017-short-6-maintenance-therapy-in-lung-cancer"
     },
     {
-      "id": "Q141",
+      "id": "Q249",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1553,7 +2768,7 @@
       "slug": "august-2017-short-7-comprehensive-geriatric-assessment-in-cancer-patients"
     },
     {
-      "id": "Q142",
+      "id": "Q250",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1564,7 +2779,7 @@
       "slug": "august-2017-short-8-cancer-related-fatigue-and-its-management"
     },
     {
-      "id": "Q143",
+      "id": "Q251",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1575,7 +2790,7 @@
       "slug": "august-2017-short-9-stereotactic-body-radiation-in-treatment-of-solid-tumours"
     },
     {
-      "id": "Q144",
+      "id": "Q252",
       "exam": "August 2017",
       "code": "LL 020",
       "type": "short",
@@ -1586,7 +2801,7 @@
       "slug": "august-2017-short-10-deauville-criteria-for-pet"
     },
     {
-      "id": "Q145",
+      "id": "Q253",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "essay",
@@ -1597,7 +2812,7 @@
       "slug": "february-2018-essay-1-pathologic-evaluation-of-carcinoma-of-unknown-primary-and-"
     },
     {
-      "id": "Q146",
+      "id": "Q254",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "essay",
@@ -1608,7 +2823,7 @@
       "slug": "february-2018-essay-2-molecular-subtypes-of-breast-cancer-and-management-of-endo"
     },
     {
-      "id": "Q147",
+      "id": "Q255",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1619,7 +2834,7 @@
       "slug": "february-2018-short-1-limb-salvage-and-recent-options-available-for-bone-sarcoma"
     },
     {
-      "id": "Q148",
+      "id": "Q256",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1630,7 +2845,7 @@
       "slug": "february-2018-short-2-nivolumab"
     },
     {
-      "id": "Q149",
+      "id": "Q257",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1641,7 +2856,7 @@
       "slug": "february-2018-short-3-accelerated-partial-breast-irradiation"
     },
     {
-      "id": "Q150",
+      "id": "Q258",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1652,7 +2867,7 @@
       "slug": "february-2018-short-4-neosphere-trial"
     },
     {
-      "id": "Q151",
+      "id": "Q259",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1663,7 +2878,7 @@
       "slug": "february-2018-short-5-nccn-evidence-blocks-explain-with-one-example"
     },
     {
-      "id": "Q152",
+      "id": "Q260",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1674,7 +2889,7 @@
       "slug": "february-2018-short-6-escalated-beacopp"
     },
     {
-      "id": "Q153",
+      "id": "Q261",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1685,7 +2900,7 @@
       "slug": "february-2018-short-7-idelalisib"
     },
     {
-      "id": "Q154",
+      "id": "Q262",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1696,7 +2911,7 @@
       "slug": "february-2018-short-8-molecular-diagnostic-studies-in-lung-cancer"
     },
     {
-      "id": "Q155",
+      "id": "Q263",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1707,7 +2922,7 @@
       "slug": "february-2018-short-9-recommendations-for-vaccination-after-autologous-and-allog"
     },
     {
-      "id": "Q156",
+      "id": "Q264",
       "exam": "February 2018",
       "code": "LM 020",
       "type": "short",
@@ -1718,7 +2933,7 @@
       "slug": "february-2018-short-10-checkmate-057-trial"
     },
     {
-      "id": "Q157",
+      "id": "Q265",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "essay",
@@ -1729,7 +2944,7 @@
       "slug": "august-2018-essay-1-discuss-the-diagnostic-criteria-of-multiple-myeloma-and-rece"
     },
     {
-      "id": "Q158",
+      "id": "Q266",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "essay",
@@ -1740,7 +2955,7 @@
       "slug": "august-2018-essay-2-malignant-melanoma-diagnosis-and-recent-therapeutic-advances"
     },
     {
-      "id": "Q159",
+      "id": "Q267",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1751,7 +2966,7 @@
       "slug": "august-2018-short-1-role-of-androgen-deprivation-in-prostate-cancer"
     },
     {
-      "id": "Q160",
+      "id": "Q268",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1762,7 +2977,7 @@
       "slug": "august-2018-short-2-role-of-jak2-inhibitors-in-myeloproliferative-disorders"
     },
     {
-      "id": "Q161",
+      "id": "Q269",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1773,7 +2988,7 @@
       "slug": "august-2018-short-3-molecular-pathways-in-head-and-neck-cancer"
     },
     {
-      "id": "Q162",
+      "id": "Q270",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1784,7 +2999,7 @@
       "slug": "august-2018-short-4-immunotherapy-in-lung-cancers"
     },
     {
-      "id": "Q163",
+      "id": "Q271",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1795,7 +3010,7 @@
       "slug": "august-2018-short-5-pediatric-rms-risk-stratification"
     },
     {
-      "id": "Q164",
+      "id": "Q272",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1806,7 +3021,7 @@
       "slug": "august-2018-short-6-metastatic-soft-tissue-sarcoma-treatment-options"
     },
     {
-      "id": "Q165",
+      "id": "Q273",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1817,7 +3032,7 @@
       "slug": "august-2018-short-7-ibritumomab"
     },
     {
-      "id": "Q166",
+      "id": "Q274",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1828,7 +3043,7 @@
       "slug": "august-2018-short-8-stereotactic-radio-surgery"
     },
     {
-      "id": "Q167",
+      "id": "Q275",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1839,7 +3054,7 @@
       "slug": "august-2018-short-9-late-effects-in-cancer-survivors"
     },
     {
-      "id": "Q168",
+      "id": "Q276",
       "exam": "August 2018",
       "code": "LN 020",
       "type": "short",
@@ -1850,7 +3065,7 @@
       "slug": "august-2018-short-10-pertuzumab"
     },
     {
-      "id": "Q169",
+      "id": "Q277",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "essay",
@@ -1861,7 +3076,7 @@
       "slug": "august-2019-essay-1-discuss-car-t-cells-and-its-therapeutic-implications"
     },
     {
-      "id": "Q170",
+      "id": "Q278",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "essay",
@@ -1872,7 +3087,7 @@
       "slug": "august-2019-essay-2-management-of-locally-advanced-rectal-cancer"
     },
     {
-      "id": "Q171",
+      "id": "Q279",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1883,7 +3098,7 @@
       "slug": "august-2019-short-1-stopping-tki-in-cml"
     },
     {
-      "id": "Q172",
+      "id": "Q280",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1894,7 +3109,7 @@
       "slug": "august-2019-short-2-alk-positive-lung-cancer"
     },
     {
-      "id": "Q173",
+      "id": "Q281",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1905,7 +3120,7 @@
       "slug": "august-2019-short-3-maintenance-therapy-in-ovarian-cancer"
     },
     {
-      "id": "Q174",
+      "id": "Q282",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1916,7 +3131,7 @@
       "slug": "august-2019-short-4-metformin-in-cancer"
     },
     {
-      "id": "Q175",
+      "id": "Q283",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1927,7 +3142,7 @@
       "slug": "august-2019-short-5-therapy-induced-aml"
     },
     {
-      "id": "Q176",
+      "id": "Q284",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1938,7 +3153,7 @@
       "slug": "august-2019-short-6-juvenile-myelomonocytic-leukemia"
     },
     {
-      "id": "Q177",
+      "id": "Q285",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1949,7 +3164,7 @@
       "slug": "august-2019-short-7-cancer-related-haemolytic-uremic-syndrome"
     },
     {
-      "id": "Q178",
+      "id": "Q286",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1960,7 +3175,7 @@
       "slug": "august-2019-short-8-revised-staging-and-response-assessment-in-lymphoma"
     },
     {
-      "id": "Q179",
+      "id": "Q287",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1971,7 +3186,7 @@
       "slug": "august-2019-short-9-nut-midline-carcinoma"
     },
     {
-      "id": "Q180",
+      "id": "Q288",
       "exam": "August 2019",
       "code": "LP 020",
       "type": "short",
@@ -1982,7 +3197,7 @@
       "slug": "august-2019-short-10-recent-advances-in-management-of-metastatic-colon-cancer"
     },
     {
-      "id": "Q181",
+      "id": "Q289",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "essay",
@@ -1993,7 +3208,7 @@
       "slug": "february-2020-essay-1-discuss-fertility-preservation-strategies-in-cancer"
     },
     {
-      "id": "Q182",
+      "id": "Q290",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "essay",
@@ -2004,7 +3219,7 @@
       "slug": "february-2020-essay-2-discuss-thromboembolism-in-cancer-its-prevention-and-treat"
     },
     {
-      "id": "Q183",
+      "id": "Q291",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2015,7 +3230,7 @@
       "slug": "february-2020-short-1-robotic-surgery-in-oncology"
     },
     {
-      "id": "Q184",
+      "id": "Q292",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2026,7 +3241,7 @@
       "slug": "february-2020-short-2-brentuximab"
     },
     {
-      "id": "Q185",
+      "id": "Q293",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2037,7 +3252,7 @@
       "slug": "february-2020-short-3-management-of-biochemical-relapse-in-ovarian-cancer"
     },
     {
-      "id": "Q186",
+      "id": "Q294",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2048,7 +3263,7 @@
       "slug": "february-2020-short-4-olanzapine"
     },
     {
-      "id": "Q187",
+      "id": "Q295",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2059,7 +3274,7 @@
       "slug": "february-2020-short-5-chemotherapy-induced-cardiac-dysfunction"
     },
     {
-      "id": "Q188",
+      "id": "Q296",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2070,7 +3285,7 @@
       "slug": "february-2020-short-6-checkpoint-inhibitor-toxicity-and-its-management"
     },
     {
-      "id": "Q189",
+      "id": "Q297",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2081,7 +3296,7 @@
       "slug": "february-2020-short-7-merkel-cell-tumour"
     },
     {
-      "id": "Q190",
+      "id": "Q298",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2092,7 +3307,7 @@
       "slug": "february-2020-short-8-phase-iv-trials"
     },
     {
-      "id": "Q191",
+      "id": "Q299",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2103,7 +3318,7 @@
       "slug": "february-2020-short-9-pi3k-inhibitors"
     },
     {
-      "id": "Q192",
+      "id": "Q300",
       "exam": "February 2020",
       "code": "LQ 020",
       "type": "short",
@@ -2114,7 +3329,7 @@
       "slug": "february-2020-short-10-chemotherapy-in-stage-ii-colon-cancer"
     },
     {
-      "id": "Q193",
+      "id": "Q301",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "essay",
@@ -2125,7 +3340,7 @@
       "slug": "november-2020-essay-1-discuss-the-role-of-parp-inhibitors-in-cancer"
     },
     {
-      "id": "Q194",
+      "id": "Q302",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "essay",
@@ -2136,7 +3351,7 @@
       "slug": "november-2020-essay-2-discuss-the-staging-prognostic-factors-and-management-of-c"
     },
     {
-      "id": "Q195",
+      "id": "Q303",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2147,7 +3362,7 @@
       "slug": "november-2020-short-1-management-of-stage-1-testicular-germ-cell-tumor"
     },
     {
-      "id": "Q196",
+      "id": "Q304",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2158,7 +3373,7 @@
       "slug": "november-2020-short-2-advantages-and-disadvantages-of-second-and-third-generatio"
     },
     {
-      "id": "Q197",
+      "id": "Q305",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2169,7 +3384,7 @@
       "slug": "november-2020-short-3-pregnancy-associated-breast-cancer"
     },
     {
-      "id": "Q198",
+      "id": "Q306",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2180,7 +3395,7 @@
       "slug": "november-2020-short-4-intra-arterial-chemotherapy-in-retinoblastoma"
     },
     {
-      "id": "Q199",
+      "id": "Q307",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2191,7 +3406,7 @@
       "slug": "november-2020-short-5-management-of-metastatic-gastrointestinal-stromal-tumor-gi"
     },
     {
-      "id": "Q200",
+      "id": "Q308",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2202,7 +3417,7 @@
       "slug": "november-2020-short-6-venetoclax"
     },
     {
-      "id": "Q201",
+      "id": "Q309",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2213,7 +3428,7 @@
       "slug": "november-2020-short-7-management-of-acute-promyelocytic-leukemia-apml"
     },
     {
-      "id": "Q202",
+      "id": "Q310",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2224,7 +3439,7 @@
       "slug": "november-2020-short-8-non-pharmacological-management-of-pain"
     },
     {
-      "id": "Q203",
+      "id": "Q311",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2235,7 +3450,7 @@
       "slug": "november-2020-short-9-chemotherapy-in-gastric-cancer"
     },
     {
-      "id": "Q204",
+      "id": "Q312",
       "exam": "November 2020",
       "code": "LR 020",
       "type": "short",
@@ -2246,7 +3461,7 @@
       "slug": "november-2020-short-10-national-cancer-grid-of-india"
     },
     {
-      "id": "Q205",
+      "id": "Q313",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "essay",
@@ -2257,7 +3472,7 @@
       "slug": "august-2021-essay-1-discuss-the-management-of-high-risk-neuroblastoma"
     },
     {
-      "id": "Q206",
+      "id": "Q314",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "essay",
@@ -2268,7 +3483,7 @@
       "slug": "august-2021-essay-2-discuss-the-recent-advances-in-management-of-her2-neu-positi"
     },
     {
-      "id": "Q207",
+      "id": "Q315",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2279,7 +3494,7 @@
       "slug": "august-2021-short-1-total-body-irradiation"
     },
     {
-      "id": "Q208",
+      "id": "Q316",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2290,7 +3505,7 @@
       "slug": "august-2021-short-2-sequencing-of-treatment-in-epidermal-growth-factor-receptor-"
     },
     {
-      "id": "Q209",
+      "id": "Q317",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2301,7 +3516,7 @@
       "slug": "august-2021-short-3-role-of-autologous-stem-cell-transplantation-in-multiple-mye"
     },
     {
-      "id": "Q210",
+      "id": "Q318",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2312,7 +3527,7 @@
       "slug": "august-2021-short-4-management-of-nodular-lymphocyte-predominant-hodgkin-lymphom"
     },
     {
-      "id": "Q211",
+      "id": "Q319",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2323,7 +3538,7 @@
       "slug": "august-2021-short-5-lung-cancer-screening"
     },
     {
-      "id": "Q212",
+      "id": "Q320",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2334,7 +3549,7 @@
       "slug": "august-2021-short-6-role-of-adjuvant-chemotherapy-in-endometrial-cancer"
     },
     {
-      "id": "Q213",
+      "id": "Q321",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2345,7 +3560,7 @@
       "slug": "august-2021-short-7-role-of-hyperthermic-intraperitoneal-chemotherapy-hipec-in-o"
     },
     {
-      "id": "Q214",
+      "id": "Q322",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2356,7 +3571,7 @@
       "slug": "august-2021-short-8-discuss-whether-progression-free-survival-is-a-surrogate-mar"
     },
     {
-      "id": "Q215",
+      "id": "Q323",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2367,7 +3582,7 @@
       "slug": "august-2021-short-9-recent-advances-in-management-of-hepatocellular-carcinoma"
     },
     {
-      "id": "Q216",
+      "id": "Q324",
       "exam": "August 2021",
       "code": "DM 0821",
       "type": "short",
@@ -2378,7 +3593,7 @@
       "slug": "august-2021-short-10-intravesical-immunotherapy-and-chemotherapy"
     },
     {
-      "id": "Q217",
+      "id": "Q325",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "essay",
@@ -2389,7 +3604,7 @@
       "slug": "february-2022-essay-1-discuss-the-current-status-of-dna-microarray-profiling-in-"
     },
     {
-      "id": "Q218",
+      "id": "Q326",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "essay",
@@ -2400,7 +3615,7 @@
       "slug": "february-2022-essay-2-recent-advances-in-supportive-care-in-cancer-chemotherapy"
     },
     {
-      "id": "Q219",
+      "id": "Q327",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2411,7 +3626,7 @@
       "slug": "february-2022-short-1-diet-and-breast-cancer"
     },
     {
-      "id": "Q220",
+      "id": "Q328",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2422,7 +3637,7 @@
       "slug": "february-2022-short-2-newer-cancer-chemotherapy-agents-for-ovarian-cancer"
     },
     {
-      "id": "Q221",
+      "id": "Q329",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2433,7 +3648,7 @@
       "slug": "february-2022-short-3-tumor-suppressor-gene"
     },
     {
-      "id": "Q222",
+      "id": "Q330",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2444,7 +3659,7 @@
       "slug": "february-2022-short-4-cns-directed-therapy-in-all-current-status"
     },
     {
-      "id": "Q223",
+      "id": "Q331",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2455,7 +3670,7 @@
       "slug": "february-2022-short-5-tumor-vaccines"
     },
     {
-      "id": "Q224",
+      "id": "Q332",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2466,7 +3681,7 @@
       "slug": "february-2022-short-6-heavy-particle-beam-radiation-therapy"
     },
     {
-      "id": "Q225",
+      "id": "Q333",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2477,7 +3692,7 @@
       "slug": "february-2022-short-7-gene-manipulation-in-radiotherapy"
     },
     {
-      "id": "Q226",
+      "id": "Q334",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2488,7 +3703,7 @@
       "slug": "february-2022-short-8-vorinostat"
     },
     {
-      "id": "Q227",
+      "id": "Q335",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2499,7 +3714,7 @@
       "slug": "february-2022-short-9-molecular-biology-of-colon-cancer"
     },
     {
-      "id": "Q228",
+      "id": "Q336",
       "exam": "February 2022",
       "code": "DM 0222",
       "type": "short",
@@ -2510,7 +3725,7 @@
       "slug": "february-2022-short-10-myeloma-response-criteria"
     },
     {
-      "id": "Q229",
+      "id": "Q337",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "essay",
@@ -2521,7 +3736,7 @@
       "slug": "august-2022-essay-1-discuss-the-role-of-hiv-in-the-pathogenesis-of-cancer-discus"
     },
     {
-      "id": "Q230",
+      "id": "Q338",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "essay",
@@ -2532,7 +3747,7 @@
       "slug": "august-2022-essay-2-discuss-the-rationale-of-combining-checkpoint-inhibitor-cpi-"
     },
     {
-      "id": "Q231",
+      "id": "Q339",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2543,7 +3758,7 @@
       "slug": "august-2022-short-1-blinatumomab-class-of-drug-and-various-uses"
     },
     {
-      "id": "Q232",
+      "id": "Q340",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2554,7 +3769,7 @@
       "slug": "august-2022-short-2-e-cigarettes-merits-and-demerits"
     },
     {
-      "id": "Q233",
+      "id": "Q341",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2565,7 +3780,7 @@
       "slug": "august-2022-short-3-various-types-of-intraperitoneal-chemotherapy"
     },
     {
-      "id": "Q234",
+      "id": "Q342",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2576,7 +3791,7 @@
       "slug": "august-2022-short-4-adverse-events-in-car-t-cell-therapy"
     },
     {
-      "id": "Q235",
+      "id": "Q343",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2587,7 +3802,7 @@
       "slug": "august-2022-short-5-capmatinib-its-target-and-evidence-to-use"
     },
     {
-      "id": "Q236",
+      "id": "Q344",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2598,7 +3813,7 @@
       "slug": "august-2022-short-6-pharmacogenomics-in-cancer-therapeutics"
     },
     {
-      "id": "Q237",
+      "id": "Q345",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2609,7 +3824,7 @@
       "slug": "august-2022-short-7-antibody-drug-conjugates-used-in-cancer-therapeutics"
     },
     {
-      "id": "Q238",
+      "id": "Q346",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2620,7 +3835,7 @@
       "slug": "august-2022-short-8-crispr-cas9"
     },
     {
-      "id": "Q239",
+      "id": "Q347",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2631,7 +3846,7 @@
       "slug": "august-2022-short-9-nanoparticle-formulation-of-chemotherapeutic-agents-and-its-"
     },
     {
-      "id": "Q240",
+      "id": "Q348",
       "exam": "August 2022",
       "code": "DM 0822",
       "type": "short",
@@ -2642,7 +3857,7 @@
       "slug": "august-2022-short-10-digital-droplet-pcr"
     },
     {
-      "id": "Q241",
+      "id": "Q349",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "essay",
@@ -2653,7 +3868,7 @@
       "slug": "february-2023-essay-1-discuss-the-role-of-genes-involved-in-mismatch-repair-mmr-"
     },
     {
-      "id": "Q242",
+      "id": "Q350",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "essay",
@@ -2664,7 +3879,7 @@
       "slug": "february-2023-essay-2-who-2022-classification-of-myeloid-malignancies-and-descri"
     },
     {
-      "id": "Q243",
+      "id": "Q351",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2675,7 +3890,7 @@
       "slug": "february-2023-short-1-bite-bi-specific-t-cell-engager-describe-and-discuss-the-d"
     },
     {
-      "id": "Q244",
+      "id": "Q352",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2686,7 +3901,7 @@
       "slug": "february-2023-short-2-ends-electronic-nicotine-delivery-systems-merits-and-demer"
     },
     {
-      "id": "Q245",
+      "id": "Q353",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2697,7 +3912,7 @@
       "slug": "february-2023-short-3-local-ablative-therapies-in-inoperable-hepatocellular-carc"
     },
     {
-      "id": "Q246",
+      "id": "Q354",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2708,7 +3923,7 @@
       "slug": "february-2023-short-4-icans-immune-effector-cell-associated-neurotoxicity-syndro"
     },
     {
-      "id": "Q247",
+      "id": "Q355",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2719,7 +3934,7 @@
       "slug": "february-2023-short-5-brentuximab-vedotin"
     },
     {
-      "id": "Q248",
+      "id": "Q356",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2730,7 +3945,7 @@
       "slug": "february-2023-short-6-define-nm-crpc-non-metastatic-castrate-resistant-prostate-"
     },
     {
-      "id": "Q249",
+      "id": "Q357",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2741,7 +3956,7 @@
       "slug": "february-2023-short-7-use-of-parp-inhibitors-in-various-cancers"
     },
     {
-      "id": "Q250",
+      "id": "Q358",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2752,7 +3967,7 @@
       "slug": "february-2023-short-8-various-modalities-of-t-cell-depletion-in-haploidentical-t"
     },
     {
-      "id": "Q251",
+      "id": "Q359",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2763,7 +3978,7 @@
       "slug": "february-2023-short-9-tumor-treating-fields"
     },
     {
-      "id": "Q252",
+      "id": "Q360",
       "exam": "February 2023",
       "code": "DM 0223",
       "type": "short",
@@ -2774,7 +3989,7 @@
       "slug": "february-2023-short-10-adjuvant-therapies-in-melanoma"
     },
     {
-      "id": "Q253",
+      "id": "Q361",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "essay",
@@ -2785,7 +4000,7 @@
       "slug": "january-2024-essay-1-methods-of-her2-testing-and-interpretation-therapeutic-stra"
     },
     {
-      "id": "Q254",
+      "id": "Q362",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "essay",
@@ -2796,7 +4011,7 @@
       "slug": "january-2024-essay-2-practice-changing-advances-in-early-stage-nsclc"
     },
     {
-      "id": "Q255",
+      "id": "Q363",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2807,7 +4022,7 @@
       "slug": "january-2024-short-1-multifocal-ground-glass-and-lepidic-adenocarcinoma-of-lung"
     },
     {
-      "id": "Q256",
+      "id": "Q364",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2818,7 +4033,7 @@
       "slug": "january-2024-short-2-engraftment-and-engraftment-syndrome"
     },
     {
-      "id": "Q257",
+      "id": "Q365",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2829,7 +4044,7 @@
       "slug": "january-2024-short-3-screening-for-colorectal-cancer"
     },
     {
-      "id": "Q258",
+      "id": "Q366",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2840,7 +4055,7 @@
       "slug": "january-2024-short-4-h-rthle-cell-carcinoma"
     },
     {
-      "id": "Q259",
+      "id": "Q367",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2851,7 +4066,7 @@
       "slug": "january-2024-short-5-hereditary-papillary-renal-cell-carcinoma"
     },
     {
-      "id": "Q260",
+      "id": "Q368",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2862,7 +4077,7 @@
       "slug": "january-2024-short-6-bispecific-t-cell-engagers"
     },
     {
-      "id": "Q261",
+      "id": "Q369",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2873,7 +4088,7 @@
       "slug": "january-2024-short-7-clinicopathologic-features-of-breast-cancer-with-intrinsic-"
     },
     {
-      "id": "Q262",
+      "id": "Q370",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2884,7 +4099,7 @@
       "slug": "january-2024-short-8-systemic-therapy-in-medullary-thyroid-carcinoma"
     },
     {
-      "id": "Q263",
+      "id": "Q371",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2895,7 +4110,7 @@
       "slug": "january-2024-short-9-alpelisib"
     },
     {
-      "id": "Q264",
+      "id": "Q372",
       "exam": "January 2024",
       "code": "DM 0124",
       "type": "short",
@@ -2906,7 +4121,7 @@
       "slug": "january-2024-short-10-uterine-leiomyosarcoma"
     },
     {
-      "id": "Q265",
+      "id": "Q373",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "essay",
@@ -2917,7 +4132,7 @@
       "slug": "february-2025-essay-1-antibody-drug-conjugates-in-medical-oncology-practice"
     },
     {
-      "id": "Q266",
+      "id": "Q374",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "essay",
@@ -2928,7 +4143,7 @@
       "slug": "february-2025-essay-2-mucosal-melanoma"
     },
     {
-      "id": "Q267",
+      "id": "Q375",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -2939,7 +4154,7 @@
       "slug": "february-2025-short-1-innovative-approaches-in-treatment-of-glioma"
     },
     {
-      "id": "Q268",
+      "id": "Q376",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -2950,7 +4165,7 @@
       "slug": "february-2025-short-2-hipec"
     },
     {
-      "id": "Q269",
+      "id": "Q377",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -2961,7 +4176,7 @@
       "slug": "february-2025-short-3-immune-checkpoint-inhibitors-in-hodgkin-s-lymphoma-managem"
     },
     {
-      "id": "Q270",
+      "id": "Q378",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -2972,7 +4187,7 @@
       "slug": "february-2025-short-4-venetoclax"
     },
     {
-      "id": "Q271",
+      "id": "Q379",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -2983,7 +4198,7 @@
       "slug": "february-2025-short-5-reduced-intensity-conditioning-regimen-in-stem-cell-transp"
     },
     {
-      "id": "Q272",
+      "id": "Q380",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -2994,7 +4209,7 @@
       "slug": "february-2025-short-6-pi3-kinase-pathway-inhibitors"
     },
     {
-      "id": "Q273",
+      "id": "Q381",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -3005,7 +4220,7 @@
       "slug": "february-2025-short-7-sbrt-stereotactic-body-radiotherapy"
     },
     {
-      "id": "Q274",
+      "id": "Q382",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -3016,7 +4231,7 @@
       "slug": "february-2025-short-8-osimertinib"
     },
     {
-      "id": "Q275",
+      "id": "Q383",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -3027,7 +4242,7 @@
       "slug": "february-2025-short-9-vaccine-preventable-cancers"
     },
     {
-      "id": "Q276",
+      "id": "Q384",
       "exam": "February 2025",
       "code": "DM 0225",
       "type": "short",
@@ -3038,7 +4253,7 @@
       "slug": "february-2025-short-10-chemotherapy-associated-peripheral-neuropathy"
     },
     {
-      "id": "Q277",
+      "id": "Q385",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "essay",
@@ -3049,7 +4264,7 @@
       "slug": "january-2026-essay-1-discuss-the-development-and-clinical-application-of-next-ge"
     },
     {
-      "id": "Q278",
+      "id": "Q386",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "essay",
@@ -3060,7 +4275,7 @@
       "slug": "january-2026-essay-2-explain-the-role-of-real-world-evidence-and-digital-oncolog"
     },
     {
-      "id": "Q279",
+      "id": "Q387",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",
@@ -3071,7 +4286,7 @@
       "slug": "january-2026-short-1-sacituzumab-govitecan"
     },
     {
-      "id": "Q280",
+      "id": "Q388",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",
@@ -3082,7 +4297,7 @@
       "slug": "january-2026-short-2-tumour-agnostic-approvals-current-indications"
     },
     {
-      "id": "Q281",
+      "id": "Q389",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",
@@ -3093,7 +4308,7 @@
       "slug": "january-2026-short-3-role-of-precision-radiation-sbrt-flash-therapy"
     },
     {
-      "id": "Q282",
+      "id": "Q390",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",
@@ -3104,7 +4319,7 @@
       "slug": "january-2026-short-4-novel-markers-predicting-immunotherapy-response"
     },
     {
-      "id": "Q283",
+      "id": "Q391",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",
@@ -3115,7 +4330,7 @@
       "slug": "january-2026-short-5-car-nk-and-off-the-shelf-cellular-therapies"
     },
     {
-      "id": "Q284",
+      "id": "Q392",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",
@@ -3126,7 +4341,7 @@
       "slug": "january-2026-short-6-targeted-therapies-for-hematologic-malignancies-btk-inhibit"
     },
     {
-      "id": "Q285",
+      "id": "Q393",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",
@@ -3137,7 +4352,7 @@
       "slug": "january-2026-short-7-radioligand-therapy-recent-clinical-applications"
     },
     {
-      "id": "Q286",
+      "id": "Q394",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",
@@ -3148,7 +4363,7 @@
       "slug": "january-2026-short-8-vaccines-in-oncology-therapeutic-vs-preventive"
     },
     {
-      "id": "Q287",
+      "id": "Q395",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",
@@ -3159,7 +4374,7 @@
       "slug": "january-2026-short-9-ctdna-monitoring-in-colorectal-cancer"
     },
     {
-      "id": "Q288",
+      "id": "Q396",
       "exam": "January 2026",
       "code": "DM 0126",
       "type": "short",

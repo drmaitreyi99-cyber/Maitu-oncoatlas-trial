@@ -6,12 +6,14 @@ Exam-oriented answer PDFs for **all extractable questions** from the Tamil Nadu 
 
 | Item | Details |
 |------|---------|
-| Question PDFs | **288** individual PDFs (`pdfs/by_question/`) |
-| Essays / Elaborate | **48** answers · typically **14–16 pages** · 15–20 marks |
-| Short notes | **240** answers · typically **11–13 pages** · 6–7 marks |
+| Question PDFs | **396** individual PDFs (`pdfs/by_question/`) — includes OCR-recovered **2001–2008** papers |
+| Essays / Elaborate | typically **14–16 pages** |
+| Short notes | typically **11–13 pages** |
+| Focus pack 2022–2026 | **72** deepened PDFs (`pdfs/focus_2022_2026/`) |
 | NCCN cheat sheet | `pdfs/NCCN_2026_Updates_CheatSheet.pdf` |
 | Master index | `pdfs/00_Master_Index.pdf` |
-| Zip bundle | `/opt/cursor/artifacts/dm-oncology-exam-notes/DM_Oncology_PaperIV_All_Answers.zip` |
+| Full zip | `/opt/cursor/artifacts/dm-oncology-exam-notes/DM_Oncology_PaperIV_All_Answers.zip` |
+| Focus zip | `/opt/cursor/artifacts/dm-oncology-exam-notes/DM_Oncology_Focus_2022_2026.zip` |
 
 Each answer includes:
 
@@ -45,6 +47,14 @@ python3 dm-oncology-notes/scripts/generate_all.py
 python3 dm-oncology-notes/scripts/generate_all.py --ids Q277 Q278
 ```
 
+## Regenerate focus pack
+
+```bash
+python3 dm-oncology-notes/scripts/add_early_papers.py
+python3 dm-oncology-notes/scripts/generate_all.py
+python3 dm-oncology-notes/scripts/build_focus_pack.py
+```
+
 ## Disclaimer
 
-For **university exam revision**. Verify the current full NCCN PDF, FDA/CDSCO labels, and institutional protocols before clinical use. Early image-only papers (≈2001–2007) in the source scan were not text-extractable; coverage starts August 2008.
+For **university exam revision**. Verify the current full NCCN PDF, FDA/CDSCO labels, and institutional protocols before clinical use. Early 2001–Feb 2008 papers were recovered by OCR from scanned pages (typos corrected to clinical wording).

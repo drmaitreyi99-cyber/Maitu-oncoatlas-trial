@@ -1,0 +1,509 @@
+{
+  "count": 72,
+  "items": [
+    {
+      "id": "Q325",
+      "exam": "February 2022",
+      "marks": 15,
+      "file": "Q325_february-2022-essay-1-discuss-the-current-status-of-dna.pdf",
+      "question": "Discuss the current status of DNA microarray profiling in management of malignant tumour."
+    },
+    {
+      "id": "Q326",
+      "exam": "February 2022",
+      "marks": 15,
+      "file": "Q326_february-2022-essay-2-recent-advances-in-supportive-car.pdf",
+      "question": "Recent advances in supportive care in cancer chemotherapy."
+    },
+    {
+      "id": "Q327",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q327_february-2022-short-1-diet-and-breast-cancer.pdf",
+      "question": "Diet and breast cancer"
+    },
+    {
+      "id": "Q328",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q328_february-2022-short-2-newer-cancer-chemotherapy-agents-.pdf",
+      "question": "Newer cancer chemotherapy agents for ovarian cancer"
+    },
+    {
+      "id": "Q329",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q329_february-2022-short-3-tumor-suppressor-gene.pdf",
+      "question": "Tumor suppressor gene"
+    },
+    {
+      "id": "Q330",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q330_february-2022-short-4-cns-directed-therapy-in-all-curre.pdf",
+      "question": "CNS directed therapy in ALL \u2013 current status"
+    },
+    {
+      "id": "Q331",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q331_february-2022-short-5-tumor-vaccines.pdf",
+      "question": "Tumor vaccines"
+    },
+    {
+      "id": "Q332",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q332_february-2022-short-6-heavy-particle-beam-radiation-the.pdf",
+      "question": "Heavy particle beam Radiation therapy"
+    },
+    {
+      "id": "Q333",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q333_february-2022-short-7-gene-manipulation-in-radiotherapy.pdf",
+      "question": "Gene manipulation in Radiotherapy"
+    },
+    {
+      "id": "Q334",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q334_february-2022-short-8-vorinostat.pdf",
+      "question": "Vorinostat"
+    },
+    {
+      "id": "Q335",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q335_february-2022-short-9-molecular-biology-of-colon-cancer.pdf",
+      "question": "Molecular biology of colon cancer"
+    },
+    {
+      "id": "Q336",
+      "exam": "February 2022",
+      "marks": 7,
+      "file": "Q336_february-2022-short-10-myeloma-response-criteria.pdf",
+      "question": "Myeloma response criteria"
+    },
+    {
+      "id": "Q337",
+      "exam": "August 2022",
+      "marks": 15,
+      "file": "Q337_august-2022-essay-1-discuss-the-role-of-hiv-in-the-path.pdf",
+      "question": "Discuss the role of HIV in the pathogenesis of Cancer. Discuss the cancers associated with HIV infection. Discuss in detail the management of various lymphomas arising in a patient with HIV-AIDS."
+    },
+    {
+      "id": "Q338",
+      "exam": "August 2022",
+      "marks": 15,
+      "file": "Q338_august-2022-essay-2-discuss-the-rationale-of-combining-.pdf",
+      "question": "Discuss the rationale of combining checkpoint inhibitor (CPI) and VEGF inhibitors in metastatic renal cell carcinoma. Discuss the various CPI with VEGF inhibitor combinations and the evidence. Discuss 2nd line treatment of metastatic renal cell carcinoma."
+    },
+    {
+      "id": "Q339",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q339_august-2022-short-1-blinatumomab-class-of-drug-and-vari.pdf",
+      "question": "Blinatumomab \u2013 class of drug and various uses"
+    },
+    {
+      "id": "Q340",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q340_august-2022-short-2-e-cigarettes-merits-and-demerits.pdf",
+      "question": "E-Cigarettes \u2013 Merits and Demerits"
+    },
+    {
+      "id": "Q341",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q341_august-2022-short-3-various-types-of-intraperitoneal-ch.pdf",
+      "question": "Various types of intraperitoneal chemotherapy"
+    },
+    {
+      "id": "Q342",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q342_august-2022-short-4-adverse-events-in-car-t-cell-therap.pdf",
+      "question": "Adverse events in CAR-T cell therapy"
+    },
+    {
+      "id": "Q343",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q343_august-2022-short-5-capmatinib-its-target-and-evidence-.pdf",
+      "question": "Capmatinib \u2013 its target and evidence to use"
+    },
+    {
+      "id": "Q344",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q344_august-2022-short-6-pharmacogenomics-in-cancer-therapeu.pdf",
+      "question": "Pharmacogenomics in Cancer Therapeutics"
+    },
+    {
+      "id": "Q345",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q345_august-2022-short-7-antibody-drug-conjugates-used-in-ca.pdf",
+      "question": "Antibody Drug conjugates used in Cancer therapeutics"
+    },
+    {
+      "id": "Q346",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q346_august-2022-short-8-crispr-cas9.pdf",
+      "question": "CRISPR\u2013Cas9"
+    },
+    {
+      "id": "Q347",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q347_august-2022-short-9-nanoparticle-formulation-of-chemoth.pdf",
+      "question": "Nanoparticle formulation of chemotherapeutic agents and its advantages"
+    },
+    {
+      "id": "Q348",
+      "exam": "August 2022",
+      "marks": 7,
+      "file": "Q348_august-2022-short-10-digital-droplet-pcr.pdf",
+      "question": "Digital Droplet PCR"
+    },
+    {
+      "id": "Q349",
+      "exam": "February 2023",
+      "marks": 15,
+      "file": "Q349_february-2023-essay-1-discuss-the-role-of-genes-involve.pdf",
+      "question": "Discuss the role of genes involved in mismatch repair (MMR) mechanisms in various cancers. Discuss testing modalities of MMR genes and their interpretation. Describe the mechanism of MMR as a biomarker for checkpoint inhibitors."
+    },
+    {
+      "id": "Q350",
+      "exam": "February 2023",
+      "marks": 15,
+      "file": "Q350_february-2023-essay-2-who-2022-classification-of-myeloi.pdf",
+      "question": "WHO 2022 classification of Myeloid malignancies and describe in detail diagnostic investigations, molecular testing, ELN 2022 risk stratification and management of Acute Myeloid Leukemia (AML)."
+    },
+    {
+      "id": "Q351",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q351_february-2023-short-1-bite-bi-specific-t-cell-engager-d.pdf",
+      "question": "BiTE (Bi-specific T-cell engager) \u2013 describe and discuss the drugs"
+    },
+    {
+      "id": "Q352",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q352_february-2023-short-2-ends-electronic-nicotine-delivery.pdf",
+      "question": "ENDS (Electronic Nicotine Delivery Systems) \u2013 Merits and Demerits"
+    },
+    {
+      "id": "Q353",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q353_february-2023-short-3-local-ablative-therapies-in-inope.pdf",
+      "question": "Local Ablative therapies in inoperable Hepatocellular Carcinoma"
+    },
+    {
+      "id": "Q354",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q354_february-2023-short-4-icans-immune-effector-cell-associ.pdf",
+      "question": "ICANS (Immune effector cell-associated Neurotoxicity Syndrome)"
+    },
+    {
+      "id": "Q355",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q355_february-2023-short-5-brentuximab-vedotin.pdf",
+      "question": "Brentuximab vedotin"
+    },
+    {
+      "id": "Q356",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q356_february-2023-short-6-define-nm-crpc-non-metastatic-cas.pdf",
+      "question": "Define NM-CRPC (Non-Metastatic Castrate-Resistant Prostate Cancer) and describe its treatment"
+    },
+    {
+      "id": "Q357",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q357_february-2023-short-7-use-of-parp-inhibitors-in-various.pdf",
+      "question": "Use of PARP inhibitors in various cancers"
+    },
+    {
+      "id": "Q358",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q358_february-2023-short-8-various-modalities-of-t-cell-depl.pdf",
+      "question": "Various modalities of T cell depletion in Haploidentical transplantation"
+    },
+    {
+      "id": "Q359",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q359_february-2023-short-9-tumor-treating-fields.pdf",
+      "question": "Tumor treating fields"
+    },
+    {
+      "id": "Q360",
+      "exam": "February 2023",
+      "marks": 7,
+      "file": "Q360_february-2023-short-10-adjuvant-therapies-in-melanoma.pdf",
+      "question": "Adjuvant therapies in Melanoma"
+    },
+    {
+      "id": "Q361",
+      "exam": "January 2024",
+      "marks": 15,
+      "file": "Q361_january-2024-essay-1-methods-of-her2-testing-and-interp.pdf",
+      "question": "Methods of HER2 testing and interpretation, therapeutic strategies for HER2+ve Metastatic Breast Cancer."
+    },
+    {
+      "id": "Q362",
+      "exam": "January 2024",
+      "marks": 15,
+      "file": "Q362_january-2024-essay-2-practice-changing-advances-in-earl.pdf",
+      "question": "Practice changing advances in early stage NSCLC."
+    },
+    {
+      "id": "Q363",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q363_january-2024-short-1-multifocal-ground-glass-and-lepidi.pdf",
+      "question": "Multifocal ground glass and Lepidic adenocarcinoma of lung"
+    },
+    {
+      "id": "Q364",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q364_january-2024-short-2-engraftment-and-engraftment-syndro.pdf",
+      "question": "Engraftment and engraftment syndrome"
+    },
+    {
+      "id": "Q365",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q365_january-2024-short-3-screening-for-colorectal-cancer.pdf",
+      "question": "Screening for colorectal cancer"
+    },
+    {
+      "id": "Q366",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q366_january-2024-short-4-h-rthle-cell-carcinoma.pdf",
+      "question": "H\u00fcrthle cell carcinoma"
+    },
+    {
+      "id": "Q367",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q367_january-2024-short-5-hereditary-papillary-renal-cell-ca.pdf",
+      "question": "Hereditary papillary renal cell carcinoma"
+    },
+    {
+      "id": "Q368",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q368_january-2024-short-6-bispecific-t-cell-engagers.pdf",
+      "question": "Bispecific T-Cell engagers"
+    },
+    {
+      "id": "Q369",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q369_january-2024-short-7-clinicopathologic-features-of-brea.pdf",
+      "question": "Clinicopathologic features of breast cancer with intrinsic subtypes"
+    },
+    {
+      "id": "Q370",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q370_january-2024-short-8-systemic-therapy-in-medullary-thyr.pdf",
+      "question": "Systemic therapy in medullary thyroid carcinoma"
+    },
+    {
+      "id": "Q371",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q371_january-2024-short-9-alpelisib.pdf",
+      "question": "Alpelisib"
+    },
+    {
+      "id": "Q372",
+      "exam": "January 2024",
+      "marks": 7,
+      "file": "Q372_january-2024-short-10-uterine-leiomyosarcoma.pdf",
+      "question": "Uterine leiomyosarcoma"
+    },
+    {
+      "id": "Q373",
+      "exam": "February 2025",
+      "marks": 15,
+      "file": "Q373_february-2025-essay-1-antibody-drug-conjugates-in-medic.pdf",
+      "question": "Antibody drug conjugates in medical oncology practice."
+    },
+    {
+      "id": "Q374",
+      "exam": "February 2025",
+      "marks": 15,
+      "file": "Q374_february-2025-essay-2-mucosal-melanoma.pdf",
+      "question": "Mucosal melanoma."
+    },
+    {
+      "id": "Q375",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q375_february-2025-short-1-innovative-approaches-in-treatmen.pdf",
+      "question": "Innovative approaches in treatment of glioma"
+    },
+    {
+      "id": "Q376",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q376_february-2025-short-2-hipec.pdf",
+      "question": "HIPEC"
+    },
+    {
+      "id": "Q377",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q377_february-2025-short-3-immune-checkpoint-inhibitors-in-h.pdf",
+      "question": "Immune checkpoint inhibitors in Hodgkin\u2019s lymphoma management"
+    },
+    {
+      "id": "Q378",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q378_february-2025-short-4-venetoclax.pdf",
+      "question": "Venetoclax"
+    },
+    {
+      "id": "Q379",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q379_february-2025-short-5-reduced-intensity-conditioning-re.pdf",
+      "question": "Reduced intensity conditioning regimen in stem cell transplantation"
+    },
+    {
+      "id": "Q380",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q380_february-2025-short-6-pi3-kinase-pathway-inhibitors.pdf",
+      "question": "PI3 Kinase pathway inhibitors"
+    },
+    {
+      "id": "Q381",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q381_february-2025-short-7-sbrt-stereotactic-body-radiothera.pdf",
+      "question": "SBRT (Stereotactic Body Radiotherapy)"
+    },
+    {
+      "id": "Q382",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q382_february-2025-short-8-osimertinib.pdf",
+      "question": "Osimertinib"
+    },
+    {
+      "id": "Q383",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q383_february-2025-short-9-vaccine-preventable-cancers.pdf",
+      "question": "Vaccine preventable cancers"
+    },
+    {
+      "id": "Q384",
+      "exam": "February 2025",
+      "marks": 7,
+      "file": "Q384_february-2025-short-10-chemotherapy-associated-peripher.pdf",
+      "question": "Chemotherapy associated peripheral neuropathy"
+    },
+    {
+      "id": "Q385",
+      "exam": "January 2026",
+      "marks": 15,
+      "file": "Q385_january-2026-essay-1-discuss-the-development-and-clinic.pdf",
+      "question": "Discuss the development and clinical application of next-generation targeted therapies, including KRAS inhibitors, PARP inhibitors, and antibody\u2013drug conjugates."
+    },
+    {
+      "id": "Q386",
+      "exam": "January 2026",
+      "marks": 15,
+      "file": "Q386_january-2026-essay-2-explain-the-role-of-real-world-evi.pdf",
+      "question": "Explain the role of real-world evidence and digital oncology tools (AI decision support, digital biomarkers, remote monitoring) in modern cancer care."
+    },
+    {
+      "id": "Q387",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q387_january-2026-short-1-sacituzumab-govitecan.pdf",
+      "question": "Sacituzumab govitecan"
+    },
+    {
+      "id": "Q388",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q388_january-2026-short-2-tumour-agnostic-approvals-current-.pdf",
+      "question": "Tumour-agnostic approvals\u2014current indications"
+    },
+    {
+      "id": "Q389",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q389_january-2026-short-3-role-of-precision-radiation-sbrt-f.pdf",
+      "question": "Role of precision radiation (SBRT, FLASH therapy)"
+    },
+    {
+      "id": "Q390",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q390_january-2026-short-4-novel-markers-predicting-immunothe.pdf",
+      "question": "Novel markers predicting immunotherapy response"
+    },
+    {
+      "id": "Q391",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q391_january-2026-short-5-car-nk-and-off-the-shelf-cellular-.pdf",
+      "question": "CAR-NK and off-the-shelf cellular therapies"
+    },
+    {
+      "id": "Q392",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q392_january-2026-short-6-targeted-therapies-for-hematologic.pdf",
+      "question": "Targeted therapies for hematologic malignancies\u2014BTK inhibitors, FLT3 inhibitors"
+    },
+    {
+      "id": "Q393",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q393_january-2026-short-7-radioligand-therapy-recent-clinica.pdf",
+      "question": "Radioligand therapy\u2014recent clinical applications"
+    },
+    {
+      "id": "Q394",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q394_january-2026-short-8-vaccines-in-oncology-therapeutic-v.pdf",
+      "question": "Vaccines in oncology\u2014therapeutic vs preventive"
+    },
+    {
+      "id": "Q395",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q395_january-2026-short-9-ctdna-monitoring-in-colorectal-can.pdf",
+      "question": "ctDNA monitoring in colorectal cancer"
+    },
+    {
+      "id": "Q396",
+      "exam": "January 2026",
+      "marks": 7,
+      "file": "Q396_january-2026-short-10-role-of-microbiome-modulation-in-.pdf",
+      "question": "Role of microbiome modulation in enhancing immunotherapy effects"
+    }
+  ]
+}
