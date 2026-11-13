@@ -1,0 +1,61 @@
+# DM Medical Oncology — Paper IV Exam Answer Notes
+
+Exam-oriented answer PDFs for **all extractable questions** from the Tamil Nadu Dr MGR Medical University D.M. Medical Oncology Paper IV (*Recent Advances*) question compilation (2008–2026).
+
+## What you get
+
+| Item | Details |
+|------|---------|
+| Question PDFs | **396** individual PDFs (`pdfs/by_question/`) — includes OCR-recovered **2001–2008** papers |
+| Essays / Elaborate | typically **14–16 pages** |
+| Short notes | typically **11–13 pages** |
+| Focus pack 2022–2026 | **72** PDFs (`pdfs/focus_2022_2026/`) — **12 essays are DEEP** (~19–22 pages, trial-dense) |
+| Topic-wise index | `pdfs/Topic_Wise_Study_Index.pdf` (10-day revision plan) |
+| NCCN cheat sheet | `pdfs/NCCN_2026_Updates_CheatSheet.pdf` |
+| Master index | `pdfs/00_Master_Index.pdf` |
+| Full zip | `/opt/cursor/artifacts/dm-oncology-exam-notes/DM_Oncology_PaperIV_All_Answers.zip` |
+| Focus zip | `/opt/cursor/artifacts/dm-oncology-exam-notes/DM_Oncology_Focus_2022_2026.zip` |
+
+Each answer includes:
+
+- Mechanisms / hallmark biology  
+- Diagnostic & biomarker work-up  
+- Management algorithms (flowcharts)  
+- **Doses & regimens**  
+- **Landmark clinical trials** tables  
+- Toxicities & supportive care  
+- **NCCN Guidelines® 2026 / 2027 updates** (boxed for quick copy into the answer sheet)  
+- Exam pearls, vignettes, and revision flash-card structure  
+
+## NCCN 2026
+
+Answers inject disease-matched updates (examples):
+
+- **NSCLC v9.2026** — osi+chemo & amivantamab+lazertinib Cat 1 preferred; **Dato-DXd** preferred after osi+chemo  
+- **Breast v9.2026** — imlunestrant (ESR1), HER2-mut/FGFR options  
+- **Myeloma v2.2027** — Tec+Dara (MajesTEC-3), belantamab+Vd, linvoseltamab  
+- **AML v5.2026** — ziftomenib (NPM1 R/R), menin inhibitor pathways  
+- **Colon v3.2026** — ATOMIC atezolizumab adjuvant dMMR; aspirin in PIK3CA; exercise  
+- **Gastric v4.2026** — FLOT+durvalumab; Claudin18.2; T-DXd 2L HER2+  
+- Plus bladder EV+P, melanoma neoadjuvant IO, RCC ipi+nivo Cat 1, prostate MDT/PARPi, ovarian ROSELLA, etc.
+
+## Regenerate
+
+```bash
+python3 dm-oncology-notes/scripts/parse_questions.py
+python3 dm-oncology-notes/scripts/generate_all.py
+# samples only:
+python3 dm-oncology-notes/scripts/generate_all.py --ids Q277 Q278
+```
+
+## Regenerate focus pack
+
+```bash
+python3 dm-oncology-notes/scripts/add_early_papers.py
+python3 dm-oncology-notes/scripts/generate_all.py
+python3 dm-oncology-notes/scripts/build_focus_pack.py
+```
+
+## Disclaimer
+
+For **university exam revision**. Verify the current full NCCN PDF, FDA/CDSCO labels, and institutional protocols before clinical use. Early 2001–Feb 2008 papers were recovered by OCR from scanned pages (typos corrected to clinical wording).

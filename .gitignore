@@ -8,3 +8,10 @@ coverage
 *.log
 tsconfig.tsbuildinfo
 .DS_Store
+
+# DM notes
+dm-oncology-notes/**/__pycache__/
+dm-oncology-notes/**/*.pyc
+
+dm-oncology-notes/**/__pycache__/
+*.pyc

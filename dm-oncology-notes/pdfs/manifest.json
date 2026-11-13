@@ -1,0 +1,3569 @@
+{
+  "count": 396,
+  "items": [
+    {
+      "id": "Q001",
+      "exam": "April 2001",
+      "marks": 25,
+      "type": "essay",
+      "question": "Discuss the role of biological response modifiers in management of cancer.",
+      "file": "pdfs/by_question/Q001_april-2001-essay-1-discuss-the-role-of-biological-response-m.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q002",
+      "exam": "April 2001",
+      "marks": 25,
+      "type": "essay",
+      "question": "Discuss the various aspects of high dose chemotherapy in cancer.",
+      "file": "pdfs/by_question/Q002_april-2001-essay-2-discuss-the-various-aspects-of-high-dose-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q003",
+      "exam": "April 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "Topoisomerase inhibitors",
+      "file": "pdfs/by_question/Q003_april-2001-short-1-topoisomerase-inhibitors.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q004",
+      "exam": "April 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "Hyperthermia",
+      "file": "pdfs/by_question/Q004_april-2001-short-2-hyperthermia.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q005",
+      "exam": "April 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "Late effects of cancer chemotherapy",
+      "file": "pdfs/by_question/Q005_april-2001-short-3-late-effects-of-cancer-chemotherapy.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q006",
+      "exam": "April 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "All-trans retinoic acid (ATRA)",
+      "file": "pdfs/by_question/Q006_april-2001-short-4-all-trans-retinoic-acid-atra.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q007",
+      "exam": "April 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "Gene therapy",
+      "file": "pdfs/by_question/Q007_april-2001-short-5-gene-therapy.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q008",
+      "exam": "November 2001",
+      "marks": 25,
+      "type": "essay",
+      "question": "Discuss critically the role of chemotherapy in the treatment of anal canal cancer.",
+      "file": "pdfs/by_question/Q008_november-2001-essay-1-discuss-critically-the-role-of-chemoth.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q009",
+      "exam": "November 2001",
+      "marks": 25,
+      "type": "essay",
+      "question": "Discuss management of standard prognosis AML.",
+      "file": "pdfs/by_question/Q009_november-2001-essay-2-discuss-management-of-standard-prognos.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q010",
+      "exam": "November 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "STI-571 (Tyrosine kinase inhibitor)",
+      "file": "pdfs/by_question/Q010_november-2001-short-1-sti-571-tyrosine-kinase-inhibitor.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q011",
+      "exam": "November 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "Gene therapy in gliomas",
+      "file": "pdfs/by_question/Q011_november-2001-short-2-gene-therapy-in-gliomas.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q012",
+      "exam": "November 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "Thalidomide",
+      "file": "pdfs/by_question/Q012_november-2001-short-3-thalidomide.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q013",
+      "exam": "November 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "Hormone replacement therapy",
+      "file": "pdfs/by_question/Q013_november-2001-short-4-hormone-replacement-therapy.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q014",
+      "exam": "November 2001",
+      "marks": 10,
+      "type": "short",
+      "question": "Antibody targeted therapy in non-Hodgkin\u2019s lymphoma",
+      "file": "pdfs/by_question/Q014_november-2001-short-5-antibody-targeted-therapy-in-non-hodgk.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q015",
+      "exam": "March 2002",
+      "marks": 25,
+      "type": "essay",
+      "question": "Discuss outpatient management of febrile neutropenia following cancer chemotherapy.",
+      "file": "pdfs/by_question/Q015_march-2002-essay-1-discuss-outpatient-management-of-febrile-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q016",
+      "exam": "March 2002",
+      "marks": 25,
+      "type": "essay",
+      "question": "Discuss critically the role of concurrent chemoradiotherapy in head and neck cancer.",
+      "file": "pdfs/by_question/Q016_march-2002-essay-2-discuss-critically-the-role-of-concurrent.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q017",
+      "exam": "March 2002",
+      "marks": 10,
+      "type": "short",
+      "question": "Arsenic trioxide",
+      "file": "pdfs/by_question/Q017_march-2002-short-1-arsenic-trioxide.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q018",
+      "exam": "March 2002",
+      "marks": 10,
+      "type": "short",
+      "question": "Mycophenolate mofetil (MMF)",
+      "file": "pdfs/by_question/Q018_march-2002-short-2-mycophenolate-mofetil-mmf.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q019",
+      "exam": "March 2002",
+      "marks": 10,
+      "type": "short",
+      "question": "Advances in the chemotherapy of pancreatic cancer",
+      "file": "pdfs/by_question/Q019_march-2002-short-3-advances-in-the-chemotherapy-of-pancreati.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q020",
+      "exam": "March 2002",
+      "marks": 10,
+      "type": "short",
+      "question": "Mixed chimerism in marrow transplants",
+      "file": "pdfs/by_question/Q020_march-2002-short-4-mixed-chimerism-in-marrow-transplants.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q021",
+      "exam": "March 2002",
+      "marks": 10,
+      "type": "short",
+      "question": "Multiagent antifolate in non-small cell lung cancer",
+      "file": "pdfs/by_question/Q021_march-2002-short-5-multiagent-antifolate-in-non-small-cell-l.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q022",
+      "exam": "April 2004",
+      "marks": 15,
+      "type": "essay",
+      "question": "Describe briefly the hierarchy of haemopoiesis. How do stem cells play a part in tissue repair?",
+      "file": "pdfs/by_question/Q022_april-2004-essay-1-describe-briefly-the-hierarchy-of-haemopo.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q023",
+      "exam": "April 2004",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss critically the role of concurrent chemoradiotherapy in the management of anal canal cancer.",
+      "file": "pdfs/by_question/Q023_april-2004-essay-2-discuss-critically-the-role-of-concurrent.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q024",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Target based therapy for head and neck cancer",
+      "file": "pdfs/by_question/Q024_april-2004-short-1-target-based-therapy-for-head-and-neck-ca.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q025",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Immunotherapy for the treatment of malignant gliomas",
+      "file": "pdfs/by_question/Q025_april-2004-short-2-immunotherapy-for-the-treatment-of-malign.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q026",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Role of monoclonal antibodies in lymphomas",
+      "file": "pdfs/by_question/Q026_april-2004-short-3-role-of-monoclonal-antibodies-in-lymphoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q027",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Bortezomib",
+      "file": "pdfs/by_question/Q027_april-2004-short-4-bortezomib.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q028",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Stem cell transplantation in childhood ALL",
+      "file": "pdfs/by_question/Q028_april-2004-short-5-stem-cell-transplantation-in-childhood-al.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q029",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Flow cytometry",
+      "file": "pdfs/by_question/Q029_april-2004-short-6-flow-cytometry.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q030",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Treatment of secondary leukemia",
+      "file": "pdfs/by_question/Q030_april-2004-short-7-treatment-of-secondary-leukemia.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q031",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Chemotherapy for medulloblastoma",
+      "file": "pdfs/by_question/Q031_april-2004-short-8-chemotherapy-for-medulloblastoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q032",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Hormone therapy for metastatic breast cancer",
+      "file": "pdfs/by_question/Q032_april-2004-short-9-hormone-therapy-for-metastatic-breast-can.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q033",
+      "exam": "April 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Gene therapy for malignant melanoma",
+      "file": "pdfs/by_question/Q033_april-2004-short-10-gene-therapy-for-malignant-melanoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q034",
+      "exam": "August 2004",
+      "marks": 15,
+      "type": "essay",
+      "question": "Describe critically the management of a 30-year-old male recently diagnosed with chronic phase chronic myeloid leukemia.",
+      "file": "pdfs/by_question/Q034_august-2004-essay-1-describe-critically-the-management-of-a-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q035",
+      "exam": "August 2004",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss critically the role of neoadjuvant chemotherapy in the management of locally advanced breast cancer.",
+      "file": "pdfs/by_question/Q035_august-2004-essay-2-discuss-critically-the-role-of-neoadjuva.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q036",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Monoclonal antibodies in the treatment of leukemias",
+      "file": "pdfs/by_question/Q036_august-2004-short-1-monoclonal-antibodies-in-the-treatment-o.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q037",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Mycophenolate mofetil",
+      "file": "pdfs/by_question/Q037_august-2004-short-2-mycophenolate-mofetil.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q038",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Treatment of metastatic neuroblastoma",
+      "file": "pdfs/by_question/Q038_august-2004-short-3-treatment-of-metastatic-neuroblastoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q039",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Large cell anaplastic lymphoma",
+      "file": "pdfs/by_question/Q039_august-2004-short-4-large-cell-anaplastic-lymphoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q040",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Guidelines for the treatment of relapsed ovarian cancer",
+      "file": "pdfs/by_question/Q040_august-2004-short-5-guidelines-for-the-treatment-of-relapsed.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q041",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Role of chemotherapy for extremity soft tissue sarcomas among adults",
+      "file": "pdfs/by_question/Q041_august-2004-short-6-role-of-chemotherapy-for-extremity-soft-.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q042",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Rituximab",
+      "file": "pdfs/by_question/Q042_august-2004-short-7-rituximab.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q043",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Treatment of metastatic choriocarcinoma",
+      "file": "pdfs/by_question/Q043_august-2004-short-8-treatment-of-metastatic-choriocarcinoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q044",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Genetics of retinoblastoma",
+      "file": "pdfs/by_question/Q044_august-2004-short-9-genetics-of-retinoblastoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q045",
+      "exam": "August 2004",
+      "marks": 5,
+      "type": "short",
+      "question": "Role of adjuvant chemotherapy for gastric cancer",
+      "file": "pdfs/by_question/Q045_august-2004-short-10-role-of-adjuvant-chemotherapy-for-gastr.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q046",
+      "exam": "February 2005",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the role of autologous stem cell transplantation in present practice of oncology.",
+      "file": "pdfs/by_question/Q046_february-2005-essay-1-discuss-the-role-of-autologous-stem-ce.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q047",
+      "exam": "February 2005",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the role and recent trends of targeted therapy.",
+      "file": "pdfs/by_question/Q047_february-2005-essay-2-discuss-the-role-and-recent-trends-of-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q048",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Cancer vaccines",
+      "file": "pdfs/by_question/Q048_february-2005-short-1-cancer-vaccines.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q049",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Chemoprevention",
+      "file": "pdfs/by_question/Q049_february-2005-short-2-chemoprevention.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q050",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Role of laparoscopy in diagnosis and treatment of cancer",
+      "file": "pdfs/by_question/Q050_february-2005-short-3-role-of-laparoscopy-in-diagnosis-and-t.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q051",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Chemotherapy of prostate cancer",
+      "file": "pdfs/by_question/Q051_february-2005-short-4-chemotherapy-of-prostate-cancer.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q052",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Bisphosphonates",
+      "file": "pdfs/by_question/Q052_february-2005-short-5-bisphosphonates.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q053",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Meta-analysis",
+      "file": "pdfs/by_question/Q053_february-2005-short-6-meta-analysis.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q054",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Aromatase inhibitors",
+      "file": "pdfs/by_question/Q054_february-2005-short-7-aromatase-inhibitors.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q055",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Epidemiology of cancer in India",
+      "file": "pdfs/by_question/Q055_february-2005-short-8-epidemiology-of-cancer-in-india.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q056",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Role of erythropoietin in cancer anaemia",
+      "file": "pdfs/by_question/Q056_february-2005-short-9-role-of-erythropoietin-in-cancer-anaem.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q057",
+      "exam": "February 2005",
+      "marks": 5,
+      "type": "short",
+      "question": "Cancer in the immunosuppressed",
+      "file": "pdfs/by_question/Q057_february-2005-short-10-cancer-in-the-immunosuppressed.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q058",
+      "exam": "February 2006",
+      "marks": 15,
+      "type": "essay",
+      "question": "Describe critically the management of Hodgkin\u2019s disease which relapsed after standard ABVD.",
+      "file": "pdfs/by_question/Q058_february-2006-essay-1-describe-critically-the-management-of-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q059",
+      "exam": "February 2006",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the neoadjuvant treatment of cancer of rectum.",
+      "file": "pdfs/by_question/Q059_february-2006-essay-2-discuss-the-neoadjuvant-treatment-of-c.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q060",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Hormonal treatment of breast cancer in premenopausal female",
+      "file": "pdfs/by_question/Q060_february-2006-short-1-hormonal-treatment-of-breast-cancer-in.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q061",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Angiogenesis inhibitors",
+      "file": "pdfs/by_question/Q061_february-2006-short-2-angiogenesis-inhibitors.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q062",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Cytoprotection during chemotherapy",
+      "file": "pdfs/by_question/Q062_february-2006-short-3-cytoprotection-during-chemotherapy.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q063",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Chemoprevention of cancer",
+      "file": "pdfs/by_question/Q063_february-2006-short-4-chemoprevention-of-cancer.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q064",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Chemotherapy for mesothelioma",
+      "file": "pdfs/by_question/Q064_february-2006-short-5-chemotherapy-for-mesothelioma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q065",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Imatinib mesylate",
+      "file": "pdfs/by_question/Q065_february-2006-short-6-imatinib-mesylate.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q066",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Treatment of gastric lymphoma",
+      "file": "pdfs/by_question/Q066_february-2006-short-7-treatment-of-gastric-lymphoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q067",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Immunohistochemistry for small round cell tumors",
+      "file": "pdfs/by_question/Q067_february-2006-short-8-immunohistochemistry-for-small-round-c.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q068",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Radioimmunopharmaceuticals in hematologic malignancies",
+      "file": "pdfs/by_question/Q068_february-2006-short-9-radioimmunopharmaceuticals-in-hematolo.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q069",
+      "exam": "February 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Somatostatin",
+      "file": "pdfs/by_question/Q069_february-2006-short-10-somatostatin.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q070",
+      "exam": "September 2006",
+      "marks": 15,
+      "type": "essay",
+      "question": "Critically evaluate the role of sentinel lymph node biopsy, along with the various techniques used, in the management of tumours at different sites.",
+      "file": "pdfs/by_question/Q070_september-2006-essay-1-critically-evaluate-the-role-of-senti.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q071",
+      "exam": "September 2006",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the etiopathogenesis of deep vein thrombosis in cancer. Suggest an investigative work-up and outline a management approach.",
+      "file": "pdfs/by_question/Q071_september-2006-essay-2-discuss-the-etiopathogenesis-of-deep-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q072",
+      "exam": "September 2006",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss neoplastic angiogenesis and antiangiogenesis therapy.",
+      "file": "pdfs/by_question/Q072_september-2006-essay-3-discuss-neoplastic-angiogenesis-and-a.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q073",
+      "exam": "September 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Chemoradiotherapy in the management of carcinoma of the anal canal",
+      "file": "pdfs/by_question/Q073_september-2006-short-1-chemoradiotherapy-in-the-management-o.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q074",
+      "exam": "September 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Management of metastatic endometrial stromal sarcoma",
+      "file": "pdfs/by_question/Q074_september-2006-short-2-management-of-metastatic-endometrial-.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q075",
+      "exam": "September 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Cyclooxygenase-2 (COX-2) inhibitors in prevention of cancer",
+      "file": "pdfs/by_question/Q075_september-2006-short-3-cyclooxygenase-2-cox-2-inhibitors-in-.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q076",
+      "exam": "September 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Temozolomide for metastatic brain tumours",
+      "file": "pdfs/by_question/Q076_september-2006-short-4-temozolomide-for-metastatic-brain-tum.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q077",
+      "exam": "September 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Magnetic resonance spectroscopy",
+      "file": "pdfs/by_question/Q077_september-2006-short-5-magnetic-resonance-spectroscopy.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q078",
+      "exam": "September 2006",
+      "marks": 5,
+      "type": "short",
+      "question": "Suicide gene therapy",
+      "file": "pdfs/by_question/Q078_september-2006-short-6-suicide-gene-therapy.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q079",
+      "exam": "February 2007",
+      "marks": 15,
+      "type": "essay",
+      "question": "Critically evaluate breast conservative surgery versus radical surgery in the management of breast cancer.",
+      "file": "pdfs/by_question/Q079_february-2007-essay-1-critically-evaluate-breast-conservativ.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q080",
+      "exam": "February 2007",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss immuno-surveillance mechanisms and the different immunotherapeutic strategies.",
+      "file": "pdfs/by_question/Q080_february-2007-essay-2-discuss-immuno-surveillance-mechanisms.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q081",
+      "exam": "February 2007",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the plasma cell\u2013stromal interactions in multiple myeloma and various therapeutic strategies in the treatment of myeloma.",
+      "file": "pdfs/by_question/Q081_february-2007-essay-3-discuss-the-plasma-cell-stromal-intera.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q082",
+      "exam": "February 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Chemoradiotherapy in the management of carcinoma of cervix",
+      "file": "pdfs/by_question/Q082_february-2007-short-1-chemoradiotherapy-in-the-management-of.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q083",
+      "exam": "February 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Metastatic renal cell carcinoma",
+      "file": "pdfs/by_question/Q083_february-2007-short-2-metastatic-renal-cell-carcinoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q084",
+      "exam": "February 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Prevention of oral cancer",
+      "file": "pdfs/by_question/Q084_february-2007-short-3-prevention-of-oral-cancer.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q085",
+      "exam": "February 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Dendritic cell vaccines",
+      "file": "pdfs/by_question/Q085_february-2007-short-4-dendritic-cell-vaccines.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q086",
+      "exam": "February 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Carcinomatous meningitis",
+      "file": "pdfs/by_question/Q086_february-2007-short-5-carcinomatous-meningitis.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q087",
+      "exam": "February 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "LASER in the management of cancer of the upper aerodigestive tract",
+      "file": "pdfs/by_question/Q087_february-2007-short-6-laser-in-the-management-of-cancer-of-t.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q088",
+      "exam": "August 2007",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the phases of clinical trials in cancer. Enumerate the pros and cons of using Indian patients in multinational clinical trials.",
+      "file": "pdfs/by_question/Q088_august-2007-essay-1-discuss-the-phases-of-clinical-trials-in.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q089",
+      "exam": "August 2007",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the role of antifungal drugs in the management of febrile neutropenia in the remission induction therapy of acute leukemias.",
+      "file": "pdfs/by_question/Q089_august-2007-essay-2-discuss-the-role-of-antifungal-drugs-in-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q090",
+      "exam": "August 2007",
+      "marks": 15,
+      "type": "essay",
+      "question": "\u2018Cancer is a multistep process\u2019 \u2013 Explain with the example of head and neck cancer. What could be possible interventions at each step?",
+      "file": "pdfs/by_question/Q090_august-2007-essay-3-cancer-is-a-multistep-process-explain-wi.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q091",
+      "exam": "August 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Microarrays in breast cancer",
+      "file": "pdfs/by_question/Q091_august-2007-short-1-microarrays-in-breast-cancer.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q092",
+      "exam": "August 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Immunoconjugates for cancer therapy",
+      "file": "pdfs/by_question/Q092_august-2007-short-2-immunoconjugates-for-cancer-therapy.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q093",
+      "exam": "August 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Compare and contrast 5-Fluorouracil and Capecitabine",
+      "file": "pdfs/by_question/Q093_august-2007-short-3-compare-and-contrast-5-fluorouracil-and-.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q094",
+      "exam": "August 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Compare and contrast liposomal and non-liposomal doxorubicin",
+      "file": "pdfs/by_question/Q094_august-2007-short-4-compare-and-contrast-liposomal-and-non-l.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q095",
+      "exam": "August 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Post-transfusion graft versus host disease",
+      "file": "pdfs/by_question/Q095_august-2007-short-5-post-transfusion-graft-versus-host-disea.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q096",
+      "exam": "August 2007",
+      "marks": 5,
+      "type": "short",
+      "question": "Pulmonary blastoma",
+      "file": "pdfs/by_question/Q096_august-2007-short-6-pulmonary-blastoma.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q097",
+      "exam": "February 2008",
+      "marks": 20,
+      "type": "essay",
+      "question": "Discuss the pathophysiology of pain and the advances in the management of acute pain in subjects with cancer.",
+      "file": "pdfs/by_question/Q097_february-2008-essay-1-discuss-the-pathophysiology-of-pain-an.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q098",
+      "exam": "February 2008",
+      "marks": 20,
+      "type": "essay",
+      "question": "Discuss the status of geriatric assessment in the elderly and briefly elaborate on the treatment of older subjects with colorectal cancer.",
+      "file": "pdfs/by_question/Q098_february-2008-essay-2-discuss-the-status-of-geriatric-assess.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q099",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Extreme drug resistance assay",
+      "file": "pdfs/by_question/Q099_february-2008-short-1-extreme-drug-resistance-assay.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q100",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Vulnerable population in clinical research",
+      "file": "pdfs/by_question/Q100_february-2008-short-2-vulnerable-population-in-clinical-rese.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q101",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Bexarotene",
+      "file": "pdfs/by_question/Q101_february-2008-short-3-bexarotene.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q102",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Transfusion related acute lung injury (TRALI)",
+      "file": "pdfs/by_question/Q102_february-2008-short-4-transfusion-related-acute-lung-injury-.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q103",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Molecular imaging",
+      "file": "pdfs/by_question/Q103_february-2008-short-5-molecular-imaging.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q104",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Prognostic factors in myelodysplastic syndrome",
+      "file": "pdfs/by_question/Q104_february-2008-short-6-prognostic-factors-in-myelodysplastic-.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q105",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Differentiating agents",
+      "file": "pdfs/by_question/Q105_february-2008-short-7-differentiating-agents.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q106",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Bortezomib",
+      "file": "pdfs/by_question/Q106_february-2008-short-8-bortezomib.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q107",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Preventable cancer",
+      "file": "pdfs/by_question/Q107_february-2008-short-9-preventable-cancer.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q108",
+      "exam": "February 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Neuroendocrine tumours",
+      "file": "pdfs/by_question/Q108_february-2008-short-10-neuroendocrine-tumours.pdf",
+      "pages_target": 10
+    },
+    {
+      "id": "Q109",
+      "exam": "August 2008",
+      "marks": 20,
+      "type": "essay",
+      "question": "Discuss the pathophysiology of hemopoiesis and the current status of colony stimulating factors in the management of infectious complications in subjects with febrile neutropenia following myelosuppressive chemotherapy.",
+      "file": "pdfs/by_question/Q109_august-2008-essay-1-discuss-the-pathophysiology-of-hemopoies.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q110",
+      "exam": "August 2008",
+      "marks": 20,
+      "type": "essay",
+      "question": "Elaborate the role of molecular targeted therapy in the treatment of squamous cell cancer of the head and neck.",
+      "file": "pdfs/by_question/Q110_august-2008-essay-2-elaborate-the-role-of-molecular-targeted.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q111",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Directed donation",
+      "file": "pdfs/by_question/Q111_august-2008-short-1-directed-donation.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q112",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Osteoarticular allograft",
+      "file": "pdfs/by_question/Q112_august-2008-short-2-osteoarticular-allograft.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q113",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Thrombopoietin",
+      "file": "pdfs/by_question/Q113_august-2008-short-3-thrombopoietin.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q114",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Mammalian target of rapamycin inhibitors (mTOR)",
+      "file": "pdfs/by_question/Q114_august-2008-short-4-mammalian-target-of-rapamycin-inhibitors.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q115",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Graft versus myeloma effect",
+      "file": "pdfs/by_question/Q115_august-2008-short-5-graft-versus-myeloma-effect.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q116",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Proteasome inhibitor",
+      "file": "pdfs/by_question/Q116_august-2008-short-6-proteasome-inhibitor.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q117",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Thallium-201 (Imaging)",
+      "file": "pdfs/by_question/Q117_august-2008-short-7-thallium-201-imaging.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q118",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Terminally ill children \u2013 issue of support",
+      "file": "pdfs/by_question/Q118_august-2008-short-8-terminally-ill-children-issue-of-support.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q119",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Neurocognitive sequelae of children treated with radiation",
+      "file": "pdfs/by_question/Q119_august-2008-short-9-neurocognitive-sequelae-of-children-trea.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q120",
+      "exam": "August 2008",
+      "marks": 6,
+      "type": "short",
+      "question": "Central venous catheter infection",
+      "file": "pdfs/by_question/Q120_august-2008-short-10-central-venous-catheter-infection.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q121",
+      "exam": "February 2009",
+      "marks": 20,
+      "type": "essay",
+      "question": "Write a short essay on Epigenetics.",
+      "file": "pdfs/by_question/Q121_february-2009-essay-1-write-a-short-essay-on-epigenetics.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q122",
+      "exam": "February 2009",
+      "marks": 20,
+      "type": "essay",
+      "question": "\u2018Cancer is a multistep process\u2019 \u2013 Explain with the example of colon cancer. What could be possible interventions at each step?",
+      "file": "pdfs/by_question/Q122_february-2009-essay-2-cancer-is-a-multistep-process-explain-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q123",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Bortezomib",
+      "file": "pdfs/by_question/Q123_february-2009-short-1-bortezomib.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q124",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Treatment of CNS leukemia",
+      "file": "pdfs/by_question/Q124_february-2009-short-2-treatment-of-cns-leukemia.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q125",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "T-cell non-Hodgkin\u2019s lymphoma",
+      "file": "pdfs/by_question/Q125_february-2009-short-3-t-cell-non-hodgkin-s-lymphoma.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q126",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Allogeneic stem cell transplantation for immunodeficiency diseases",
+      "file": "pdfs/by_question/Q126_february-2009-short-4-allogeneic-stem-cell-transplantation-f.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q127",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Role of immunohistochemistry in the diagnosis of unknown primary",
+      "file": "pdfs/by_question/Q127_february-2009-short-5-role-of-immunohistochemistry-in-the-di.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q128",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Management of invasive aspergillosis",
+      "file": "pdfs/by_question/Q128_february-2009-short-6-management-of-invasive-aspergillosis.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q129",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Treatment of superior vena cava obstruction",
+      "file": "pdfs/by_question/Q129_february-2009-short-7-treatment-of-superior-vena-cava-obstru.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q130",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Differential diagnosis of ovarian mass in a 15-year-old girl",
+      "file": "pdfs/by_question/Q130_february-2009-short-8-differential-diagnosis-of-ovarian-mass.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q131",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Communication skills in oncology care",
+      "file": "pdfs/by_question/Q131_february-2009-short-9-communication-skills-in-oncology-care.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q132",
+      "exam": "February 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Merits and demerits of treatment in asymptomatic early-stage prostate cancer",
+      "file": "pdfs/by_question/Q132_february-2009-short-10-merits-and-demerits-of-treatment-in-a.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q133",
+      "exam": "August 2009",
+      "marks": 20,
+      "type": "essay",
+      "question": "Discuss briefly the recent developments in pathology, molecular biology and management of glioblastoma multiforme.",
+      "file": "pdfs/by_question/Q133_august-2009-essay-1-discuss-briefly-the-recent-developments-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q134",
+      "exam": "August 2009",
+      "marks": 20,
+      "type": "essay",
+      "question": "Management of imatinib-resistant chronic myeloid leukemia.",
+      "file": "pdfs/by_question/Q134_august-2009-essay-2-management-of-imatinib-resistant-chronic.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q135",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "KRAS",
+      "file": "pdfs/by_question/Q135_august-2009-short-1-kras.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q136",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "RECIST / PD criteria",
+      "file": "pdfs/by_question/Q136_august-2009-short-2-recist-pd-criteria.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q137",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Lapatinib",
+      "file": "pdfs/by_question/Q137_august-2009-short-3-lapatinib.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q138",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "IGRT (Image Guided Radiotherapy)",
+      "file": "pdfs/by_question/Q138_august-2009-short-4-igrt-image-guided-radiotherapy.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q139",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Multikinase inhibitors",
+      "file": "pdfs/by_question/Q139_august-2009-short-5-multikinase-inhibitors.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q140",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Chemoport",
+      "file": "pdfs/by_question/Q140_august-2009-short-6-chemoport.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q141",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "GVHD",
+      "file": "pdfs/by_question/Q141_august-2009-short-7-gvhd.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q142",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Molecular targeted therapy in renal cell carcinoma",
+      "file": "pdfs/by_question/Q142_august-2009-short-8-molecular-targeted-therapy-in-renal-cell.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q143",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Chemoprevention",
+      "file": "pdfs/by_question/Q143_august-2009-short-9-chemoprevention.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q144",
+      "exam": "August 2009",
+      "marks": 6,
+      "type": "short",
+      "question": "Management of mesothelioma",
+      "file": "pdfs/by_question/Q144_august-2009-short-10-management-of-mesothelioma.pdf",
+      "pages_target": 8
+    },
+    {
+      "id": "Q145",
+      "exam": "August 2011",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss in detail Adoptive cell therapy in treatment of Cancer.",
+      "file": "pdfs/by_question/Q145_august-2011-essay-1-discuss-in-detail-adoptive-cell-therapy-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q146",
+      "exam": "August 2011",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the current status of individualized treatment for Cancer (Tailored Therapy) in Medical Oncology.",
+      "file": "pdfs/by_question/Q146_august-2011-essay-2-discuss-the-current-status-of-individual.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q147",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Electronic Medical Records",
+      "file": "pdfs/by_question/Q147_august-2011-short-1-electronic-medical-records.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q148",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Robotic Surgery in Oncology",
+      "file": "pdfs/by_question/Q148_august-2011-short-2-robotic-surgery-in-oncology.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q149",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Bendamustine",
+      "file": "pdfs/by_question/Q149_august-2011-short-3-bendamustine.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q150",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Radiation induced Cardiotoxicity",
+      "file": "pdfs/by_question/Q150_august-2011-short-4-radiation-induced-cardiotoxicity.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q151",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Olaparib",
+      "file": "pdfs/by_question/Q151_august-2011-short-5-olaparib.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q152",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Image Guided Radiotherapy (IGRT)",
+      "file": "pdfs/by_question/Q152_august-2011-short-6-image-guided-radiotherapy-igrt.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q153",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Genitourinary Rhabdomyosarcoma",
+      "file": "pdfs/by_question/Q153_august-2011-short-7-genitourinary-rhabdomyosarcoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q154",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Carcinosarcoma of uterus",
+      "file": "pdfs/by_question/Q154_august-2011-short-8-carcinosarcoma-of-uterus.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q155",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Thalidomide",
+      "file": "pdfs/by_question/Q155_august-2011-short-9-thalidomide.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q156",
+      "exam": "August 2011",
+      "marks": 7,
+      "type": "short",
+      "question": "Myelofibrosis",
+      "file": "pdfs/by_question/Q156_august-2011-short-10-myelofibrosis.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q157",
+      "exam": "August 2012",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss in detail the role of Targeted therapy and recent advances in the Systemic Management of Colorectal Cancers.",
+      "file": "pdfs/by_question/Q157_august-2012-essay-1-discuss-in-detail-the-role-of-targeted-t.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q158",
+      "exam": "August 2012",
+      "marks": 15,
+      "type": "essay",
+      "question": "Critically analyse the role and issues regarding Intraperitoneal Chemotherapy in Epithelial Ovarian Cancer.",
+      "file": "pdfs/by_question/Q158_august-2012-essay-2-critically-analyse-the-role-and-issues-r.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q159",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Indications and contraindications of Total Parenteral Nutrition in Cancer Patients",
+      "file": "pdfs/by_question/Q159_august-2012-short-1-indications-and-contraindications-of-tot.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q160",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Algorithm for Cancer Pain Management",
+      "file": "pdfs/by_question/Q160_august-2012-short-2-algorithm-for-cancer-pain-management.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q161",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Utility of Erlotinib in Solid Tumour Oncology",
+      "file": "pdfs/by_question/Q161_august-2012-short-3-utility-of-erlotinib-in-solid-tumour-onc.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q162",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Definition and Indications of Haploidentical Stem cell Transplantation",
+      "file": "pdfs/by_question/Q162_august-2012-short-4-definition-and-indications-of-haploident.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q163",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Recent advances in Systemic therapy in Non Small Cell Lung Cancer",
+      "file": "pdfs/by_question/Q163_august-2012-short-5-recent-advances-in-systemic-therapy-in-n.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q164",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Accelerated Approval of Cancer Drugs",
+      "file": "pdfs/by_question/Q164_august-2012-short-6-accelerated-approval-of-cancer-drugs.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q165",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Definition and issues involved in Euthanasia and Physician Assisted Suicide",
+      "file": "pdfs/by_question/Q165_august-2012-short-7-definition-and-issues-involved-in-euthan.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q166",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Clinical Indications and Toxicity of Trastuzumab",
+      "file": "pdfs/by_question/Q166_august-2012-short-8-clinical-indications-and-toxicity-of-tra.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q167",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Recent Advances in the management of Hormone Refractory Prostate Cancer",
+      "file": "pdfs/by_question/Q167_august-2012-short-9-recent-advances-in-the-management-of-hor.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q168",
+      "exam": "August 2012",
+      "marks": 7,
+      "type": "short",
+      "question": "Current role of PET Scan in patients with Lymphomas",
+      "file": "pdfs/by_question/Q168_august-2012-short-10-current-role-of-pet-scan-in-patients-wi.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q169",
+      "exam": "August 2013",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss in detail the role of Targeted therapy in Oncology.",
+      "file": "pdfs/by_question/Q169_august-2013-essay-1-discuss-in-detail-the-role-of-targeted-t.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q170",
+      "exam": "August 2013",
+      "marks": 15,
+      "type": "essay",
+      "question": "Indications, contraindications, methodology and side effects of Allogeneic bone marrow transplant.",
+      "file": "pdfs/by_question/Q170_august-2013-essay-2-indications-contraindications-methodolog.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q171",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "Nanotechnology in oncology",
+      "file": "pdfs/by_question/Q171_august-2013-short-1-nanotechnology-in-oncology.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q172",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "Active specific immunotherapy for cancer",
+      "file": "pdfs/by_question/Q172_august-2013-short-2-active-specific-immunotherapy-for-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q173",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "3rd generation Pgp (P-glycoprotein) inhibitors",
+      "file": "pdfs/by_question/Q173_august-2013-short-3-3rd-generation-pgp-p-glycoprotein-inhibi.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q174",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "Differentiating agents in the treatment of cancer",
+      "file": "pdfs/by_question/Q174_august-2013-short-4-differentiating-agents-in-the-treatment-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q175",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "HNPCC prevention",
+      "file": "pdfs/by_question/Q175_august-2013-short-5-hnpcc-prevention.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q176",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "Sorafenib",
+      "file": "pdfs/by_question/Q176_august-2013-short-6-sorafenib.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q177",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "Radiofrequency ablation",
+      "file": "pdfs/by_question/Q177_august-2013-short-7-radiofrequency-ablation.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q178",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "Vandetanib",
+      "file": "pdfs/by_question/Q178_august-2013-short-8-vandetanib.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q179",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "Metronomic chemotherapy",
+      "file": "pdfs/by_question/Q179_august-2013-short-9-metronomic-chemotherapy.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q180",
+      "exam": "August 2013",
+      "marks": 7,
+      "type": "short",
+      "question": "Predictive molecular tests in cancer management",
+      "file": "pdfs/by_question/Q180_august-2013-short-10-predictive-molecular-tests-in-cancer-ma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q181",
+      "exam": "August 2014",
+      "marks": 15,
+      "type": "essay",
+      "question": "Recent advances in treatment of HER2 Positive Breast cancer.",
+      "file": "pdfs/by_question/Q181_august-2014-essay-1-recent-advances-in-treatment-of-her2-pos.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q182",
+      "exam": "August 2014",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss in detail about cytogenetics, molecular abnormalities, prognostic factors and newer therapies in Acute Myeloid Leukemia.",
+      "file": "pdfs/by_question/Q182_august-2014-essay-2-discuss-in-detail-about-cytogenetics-mol.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q183",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "Eribulin",
+      "file": "pdfs/by_question/Q183_august-2014-short-1-eribulin.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q184",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "Targeted therapy in Hodgkin\u2019s Lymphoma",
+      "file": "pdfs/by_question/Q184_august-2014-short-2-targeted-therapy-in-hodgkin-s-lymphoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q185",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "Ramucirumab in colorectal cancer",
+      "file": "pdfs/by_question/Q185_august-2014-short-3-ramucirumab-in-colorectal-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q186",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "Nutritional assessment and intervention in cancer patients",
+      "file": "pdfs/by_question/Q186_august-2014-short-4-nutritional-assessment-and-intervention-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q187",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of Androgen receptor in breast cancer management",
+      "file": "pdfs/by_question/Q187_august-2014-short-5-role-of-androgen-receptor-in-breast-canc.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q188",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "Immunotherapy in malignant melanoma",
+      "file": "pdfs/by_question/Q188_august-2014-short-6-immunotherapy-in-malignant-melanoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q189",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "Surgery vs Observation following Neoadjuvant chemoradiation in locally advanced rectal cancer",
+      "file": "pdfs/by_question/Q189_august-2014-short-7-surgery-vs-observation-following-neoadju.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q190",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "Charged particle beams in radiation \u2013 advantages and disadvantages of Proton and Carbon beam therapy",
+      "file": "pdfs/by_question/Q190_august-2014-short-8-charged-particle-beams-in-radiation-adva.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q191",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "Granulosa cell tumours of the ovary",
+      "file": "pdfs/by_question/Q191_august-2014-short-9-granulosa-cell-tumours-of-the-ovary.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q192",
+      "exam": "August 2014",
+      "marks": 7,
+      "type": "short",
+      "question": "How do you assess cost-effectiveness and use it in decision making?",
+      "file": "pdfs/by_question/Q192_august-2014-short-10-how-do-you-assess-cost-effectiveness-an.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q193",
+      "exam": "August 2015",
+      "marks": 15,
+      "type": "essay",
+      "question": "Unique biology of Triple negative breast cancer and targeted agents in the treatment of advanced triple negative breast cancer.",
+      "file": "pdfs/by_question/Q193_august-2015-essay-1-unique-biology-of-triple-negative-breast.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q194",
+      "exam": "August 2015",
+      "marks": 15,
+      "type": "essay",
+      "question": "Perioperative and Neoadjuvant chemotherapy in Gastric cancer.",
+      "file": "pdfs/by_question/Q194_august-2015-essay-2-perioperative-and-neoadjuvant-chemothera.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q195",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of radiation therapy in organ preservation",
+      "file": "pdfs/by_question/Q195_august-2015-short-1-role-of-radiation-therapy-in-organ-prese.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q196",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "Second malignancies after treatment of Hodgkin lymphoma",
+      "file": "pdfs/by_question/Q196_august-2015-short-2-second-malignancies-after-treatment-of-h.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q197",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of chemotherapy in Retinoblastoma",
+      "file": "pdfs/by_question/Q197_august-2015-short-3-role-of-chemotherapy-in-retinoblastoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q198",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "NFkB signalling in Drug resistance \u2013 explain with examples",
+      "file": "pdfs/by_question/Q198_august-2015-short-4-nfkb-signalling-in-drug-resistance-expla.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q199",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "Myeloid sarcoma and its management",
+      "file": "pdfs/by_question/Q199_august-2015-short-5-myeloid-sarcoma-and-its-management.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q200",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "Mechanisms of resistance to antiangiogenic therapy",
+      "file": "pdfs/by_question/Q200_august-2015-short-6-mechanisms-of-resistance-to-antiangiogen.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q201",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "Stereotactic radiosurgery",
+      "file": "pdfs/by_question/Q201_august-2015-short-7-stereotactic-radiosurgery.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q202",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "EMILIA trial",
+      "file": "pdfs/by_question/Q202_august-2015-short-8-emilia-trial.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q203",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of ductal carcinoma in situ",
+      "file": "pdfs/by_question/Q203_august-2015-short-9-management-of-ductal-carcinoma-in-situ.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q204",
+      "exam": "August 2015",
+      "marks": 7,
+      "type": "short",
+      "question": "Chemotherapy in soft tissue sarcoma",
+      "file": "pdfs/by_question/Q204_august-2015-short-10-chemotherapy-in-soft-tissue-sarcoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q205",
+      "exam": "February 2016",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the pathology, pathogenesis, risk assessment and treatment of myelodysplastic syndrome.",
+      "file": "pdfs/by_question/Q205_february-2016-essay-1-discuss-the-pathology-pathogenesis-ris.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q206",
+      "exam": "February 2016",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the role of chemotherapy in early breast cancer.",
+      "file": "pdfs/by_question/Q206_february-2016-essay-2-discuss-the-role-of-chemotherapy-in-ea.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q207",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Targeted therapy in colon cancer",
+      "file": "pdfs/by_question/Q207_february-2016-short-1-targeted-therapy-in-colon-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q208",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Plerixafor",
+      "file": "pdfs/by_question/Q208_february-2016-short-2-plerixafor.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q209",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Chemoradiotherapy in rectal cancer",
+      "file": "pdfs/by_question/Q209_february-2016-short-3-chemoradiotherapy-in-rectal-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q210",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Stopping TKI in CML",
+      "file": "pdfs/by_question/Q210_february-2016-short-4-stopping-tki-in-cml.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q211",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Advances in treatment of anaplastic large cell lymphoma",
+      "file": "pdfs/by_question/Q211_february-2016-short-5-advances-in-treatment-of-anaplastic-la.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q212",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Accelerated drug approval",
+      "file": "pdfs/by_question/Q212_february-2016-short-6-accelerated-drug-approval.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q213",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of TKI rash",
+      "file": "pdfs/by_question/Q213_february-2016-short-7-management-of-tki-rash.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q214",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Empiric therapy of carcinoma of unknown primary",
+      "file": "pdfs/by_question/Q214_february-2016-short-8-empiric-therapy-of-carcinoma-of-unknow.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q215",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of intraocular retinoblastoma",
+      "file": "pdfs/by_question/Q215_february-2016-short-9-management-of-intraocular-retinoblasto.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q216",
+      "exam": "February 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of malignant pleural effusion",
+      "file": "pdfs/by_question/Q216_february-2016-short-10-management-of-malignant-pleural-effus.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q217",
+      "exam": "August 2016",
+      "marks": 15,
+      "type": "essay",
+      "question": "Describe the role of PET scan in early stage Hodgkin lymphoma and optimal management.",
+      "file": "pdfs/by_question/Q217_august-2016-essay-1-describe-the-role-of-pet-scan-in-early-s.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q218",
+      "exam": "August 2016",
+      "marks": 15,
+      "type": "essay",
+      "question": "Describe the etiology and molecular profile in the development of gastric cancer and role of targeted therapy.",
+      "file": "pdfs/by_question/Q218_august-2016-essay-2-describe-the-etiology-and-molecular-prof.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q219",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Recent development in the management of malignant Melanoma",
+      "file": "pdfs/by_question/Q219_august-2016-short-1-recent-development-in-the-management-of-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q220",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of Medical Oncologist in the management of operable early Breast cancer",
+      "file": "pdfs/by_question/Q220_august-2016-short-2-role-of-medical-oncologist-in-the-manage.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q221",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Late Sequelae of Radiotherapy in Hodgkin\u2019s lymphoma",
+      "file": "pdfs/by_question/Q221_august-2016-short-3-late-sequelae-of-radiotherapy-in-hodgkin.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q222",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Cytotoxic T\u2013Lymphocyte Associated Antigen-4 (CTLA-4)",
+      "file": "pdfs/by_question/Q222_august-2016-short-4-cytotoxic-t-lymphocyte-associated-antige.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q223",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Vorinostat",
+      "file": "pdfs/by_question/Q223_august-2016-short-5-vorinostat.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q224",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Oligometastasis",
+      "file": "pdfs/by_question/Q224_august-2016-short-6-oligometastasis.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q225",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Tositumomab",
+      "file": "pdfs/by_question/Q225_august-2016-short-7-tositumomab.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q226",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Recent advances in managing bone pain",
+      "file": "pdfs/by_question/Q226_august-2016-short-8-recent-advances-in-managing-bone-pain.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q227",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Targeted therapy of FLT3 positive acute myeloid leukemia",
+      "file": "pdfs/by_question/Q227_august-2016-short-9-targeted-therapy-of-flt3-positive-acute-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q228",
+      "exam": "August 2016",
+      "marks": 7,
+      "type": "short",
+      "question": "Pazopanib",
+      "file": "pdfs/by_question/Q228_august-2016-short-10-pazopanib.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q229",
+      "exam": "February 2017",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the checkpoint inhibitors and their clinical application.",
+      "file": "pdfs/by_question/Q229_february-2017-essay-1-discuss-the-checkpoint-inhibitors-and-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q230",
+      "exam": "February 2017",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the recent advances in management of chronic myeloid leukemia.",
+      "file": "pdfs/by_question/Q230_february-2017-essay-2-discuss-the-recent-advances-in-managem.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q231",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Proton beam therapy",
+      "file": "pdfs/by_question/Q231_february-2017-short-1-proton-beam-therapy.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q232",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Maintenance rituximab in lymphoma",
+      "file": "pdfs/by_question/Q232_february-2017-short-2-maintenance-rituximab-in-lymphoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q233",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "PI3 kinase and mTOR pathway in breast cancer",
+      "file": "pdfs/by_question/Q233_february-2017-short-3-pi3-kinase-and-mtor-pathway-in-breast-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q234",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Next generation sequencing",
+      "file": "pdfs/by_question/Q234_february-2017-short-4-next-generation-sequencing.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q235",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Upfront chemotherapy in prostate cancer",
+      "file": "pdfs/by_question/Q235_february-2017-short-5-upfront-chemotherapy-in-prostate-cance.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q236",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Liquid biopsy in cancer",
+      "file": "pdfs/by_question/Q236_february-2017-short-6-liquid-biopsy-in-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q237",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of hand foot syndrome",
+      "file": "pdfs/by_question/Q237_february-2017-short-7-management-of-hand-foot-syndrome.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q238",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Abiraterone",
+      "file": "pdfs/by_question/Q238_february-2017-short-8-abiraterone.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q239",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Recent advances in management of primary CNS lymphoma",
+      "file": "pdfs/by_question/Q239_february-2017-short-9-recent-advances-in-management-of-prima.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q240",
+      "exam": "February 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Newer drugs in myeloma",
+      "file": "pdfs/by_question/Q240_february-2017-short-10-newer-drugs-in-myeloma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q241",
+      "exam": "August 2017",
+      "marks": 15,
+      "type": "essay",
+      "question": "Pathogenesis, Diagnosis and management of CML and Newer drugs in the treatment of CML.",
+      "file": "pdfs/by_question/Q241_august-2017-essay-1-pathogenesis-diagnosis-and-management-of.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q242",
+      "exam": "August 2017",
+      "marks": 15,
+      "type": "essay",
+      "question": "Management of axilla \u2013 Role of axillary Lymph Node Dissection vs Sentinel Lymph Node Biopsy.",
+      "file": "pdfs/by_question/Q242_august-2017-essay-2-management-of-axilla-role-of-axillary-ly.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q243",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Neoadjuvant HER2 targeted therapy in breast cancer",
+      "file": "pdfs/by_question/Q243_august-2017-short-1-neoadjuvant-her2-targeted-therapy-in-bre.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q244",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Early intensification treatment approach in advanced Hodgkin Lymphoma",
+      "file": "pdfs/by_question/Q244_august-2017-short-2-early-intensification-treatment-approach.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q245",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Rasburicase",
+      "file": "pdfs/by_question/Q245_august-2017-short-3-rasburicase.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q246",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Preservation of fertility during chemotherapy for breast cancer",
+      "file": "pdfs/by_question/Q246_august-2017-short-4-preservation-of-fertility-during-chemoth.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q247",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Autologous Bone Marrow Transplant in Multiple Myeloma",
+      "file": "pdfs/by_question/Q247_august-2017-short-5-autologous-bone-marrow-transplant-in-mul.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q248",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Maintenance Therapy in Lung cancer",
+      "file": "pdfs/by_question/Q248_august-2017-short-6-maintenance-therapy-in-lung-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q249",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Comprehensive Geriatric assessment in cancer patients",
+      "file": "pdfs/by_question/Q249_august-2017-short-7-comprehensive-geriatric-assessment-in-ca.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q250",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Cancer related fatigue and its management",
+      "file": "pdfs/by_question/Q250_august-2017-short-8-cancer-related-fatigue-and-its-managemen.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q251",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Stereotactic Body Radiation in treatment of solid tumours",
+      "file": "pdfs/by_question/Q251_august-2017-short-9-stereotactic-body-radiation-in-treatment.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q252",
+      "exam": "August 2017",
+      "marks": 7,
+      "type": "short",
+      "question": "Deauville criteria for PET",
+      "file": "pdfs/by_question/Q252_august-2017-short-10-deauville-criteria-for-pet.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q253",
+      "exam": "February 2018",
+      "marks": 15,
+      "type": "essay",
+      "question": "Pathologic evaluation of carcinoma of unknown primary and management of favourable subsets.",
+      "file": "pdfs/by_question/Q253_february-2018-essay-1-pathologic-evaluation-of-carcinoma-of-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q254",
+      "exam": "February 2018",
+      "marks": 15,
+      "type": "essay",
+      "question": "Molecular subtypes of Breast cancer and management of endocrine resistant breast cancer.",
+      "file": "pdfs/by_question/Q254_february-2018-essay-2-molecular-subtypes-of-breast-cancer-an.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q255",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Limb salvage and recent options available for bone sarcomas",
+      "file": "pdfs/by_question/Q255_february-2018-short-1-limb-salvage-and-recent-options-availa.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q256",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Nivolumab",
+      "file": "pdfs/by_question/Q256_february-2018-short-2-nivolumab.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q257",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Accelerated partial breast irradiation",
+      "file": "pdfs/by_question/Q257_february-2018-short-3-accelerated-partial-breast-irradiation.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q258",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "NeoSphere trial",
+      "file": "pdfs/by_question/Q258_february-2018-short-4-neosphere-trial.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q259",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "NCCN evidence blocks \u2013 explain with one example",
+      "file": "pdfs/by_question/Q259_february-2018-short-5-nccn-evidence-blocks-explain-with-one-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q260",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Escalated BEACOPP",
+      "file": "pdfs/by_question/Q260_february-2018-short-6-escalated-beacopp.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q261",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Idelalisib",
+      "file": "pdfs/by_question/Q261_february-2018-short-7-idelalisib.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q262",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Molecular diagnostic studies in lung cancer",
+      "file": "pdfs/by_question/Q262_february-2018-short-8-molecular-diagnostic-studies-in-lung-c.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q263",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Recommendations for vaccination after Autologous and Allogeneic Hematopoietic cell transplant (HCT)",
+      "file": "pdfs/by_question/Q263_february-2018-short-9-recommendations-for-vaccination-after-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q264",
+      "exam": "February 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "CheckMate-057 trial",
+      "file": "pdfs/by_question/Q264_february-2018-short-10-checkmate-057-trial.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q265",
+      "exam": "August 2018",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the Diagnostic criteria of Multiple myeloma and Recent developments in the management of Refractory multiple myeloma.",
+      "file": "pdfs/by_question/Q265_august-2018-essay-1-discuss-the-diagnostic-criteria-of-multi.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q266",
+      "exam": "August 2018",
+      "marks": 15,
+      "type": "essay",
+      "question": "Malignant Melanoma \u2013 Diagnosis and Recent Therapeutic Advances.",
+      "file": "pdfs/by_question/Q266_august-2018-essay-2-malignant-melanoma-diagnosis-and-recent-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q267",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of Androgen Deprivation in Prostate Cancer",
+      "file": "pdfs/by_question/Q267_august-2018-short-1-role-of-androgen-deprivation-in-prostate.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q268",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of JAK2 inhibitors in myeloproliferative disorders",
+      "file": "pdfs/by_question/Q268_august-2018-short-2-role-of-jak2-inhibitors-in-myeloprolifer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q269",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Molecular pathways in Head and Neck cancer",
+      "file": "pdfs/by_question/Q269_august-2018-short-3-molecular-pathways-in-head-and-neck-canc.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q270",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Immunotherapy in lung cancers",
+      "file": "pdfs/by_question/Q270_august-2018-short-4-immunotherapy-in-lung-cancers.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q271",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Pediatric RMS Risk stratification",
+      "file": "pdfs/by_question/Q271_august-2018-short-5-pediatric-rms-risk-stratification.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q272",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Metastatic soft tissue Sarcoma treatment options",
+      "file": "pdfs/by_question/Q272_august-2018-short-6-metastatic-soft-tissue-sarcoma-treatment.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q273",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Ibritumomab",
+      "file": "pdfs/by_question/Q273_august-2018-short-7-ibritumomab.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q274",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Stereotactic Radio Surgery",
+      "file": "pdfs/by_question/Q274_august-2018-short-8-stereotactic-radio-surgery.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q275",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Late effects in cancer survivors",
+      "file": "pdfs/by_question/Q275_august-2018-short-9-late-effects-in-cancer-survivors.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q276",
+      "exam": "August 2018",
+      "marks": 7,
+      "type": "short",
+      "question": "Pertuzumab",
+      "file": "pdfs/by_question/Q276_august-2018-short-10-pertuzumab.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q277",
+      "exam": "August 2019",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss CAR-T cells and its therapeutic implications.",
+      "file": "pdfs/by_question/Q277_august-2019-essay-1-discuss-car-t-cells-and-its-therapeutic-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q278",
+      "exam": "August 2019",
+      "marks": 15,
+      "type": "essay",
+      "question": "Management of locally advanced rectal cancer.",
+      "file": "pdfs/by_question/Q278_august-2019-essay-2-management-of-locally-advanced-rectal-ca.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q279",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "Stopping TKI in CML",
+      "file": "pdfs/by_question/Q279_august-2019-short-1-stopping-tki-in-cml.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q280",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "ALK positive lung cancer",
+      "file": "pdfs/by_question/Q280_august-2019-short-2-alk-positive-lung-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q281",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "Maintenance therapy in ovarian cancer",
+      "file": "pdfs/by_question/Q281_august-2019-short-3-maintenance-therapy-in-ovarian-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q282",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "Metformin in cancer",
+      "file": "pdfs/by_question/Q282_august-2019-short-4-metformin-in-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q283",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "Therapy induced AML",
+      "file": "pdfs/by_question/Q283_august-2019-short-5-therapy-induced-aml.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q284",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "Juvenile myelomonocytic leukemia",
+      "file": "pdfs/by_question/Q284_august-2019-short-6-juvenile-myelomonocytic-leukemia.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q285",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "Cancer related haemolytic uremic syndrome",
+      "file": "pdfs/by_question/Q285_august-2019-short-7-cancer-related-haemolytic-uremic-syndrom.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q286",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "Revised staging and response assessment in lymphoma",
+      "file": "pdfs/by_question/Q286_august-2019-short-8-revised-staging-and-response-assessment-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q287",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "NUT midline carcinoma",
+      "file": "pdfs/by_question/Q287_august-2019-short-9-nut-midline-carcinoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q288",
+      "exam": "August 2019",
+      "marks": 7,
+      "type": "short",
+      "question": "Recent advances in management of metastatic colon cancer",
+      "file": "pdfs/by_question/Q288_august-2019-short-10-recent-advances-in-management-of-metast.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q289",
+      "exam": "February 2020",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss fertility preservation strategies in cancer.",
+      "file": "pdfs/by_question/Q289_february-2020-essay-1-discuss-fertility-preservation-strateg.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q290",
+      "exam": "February 2020",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss thromboembolism in cancer, its prevention and treatment.",
+      "file": "pdfs/by_question/Q290_february-2020-essay-2-discuss-thromboembolism-in-cancer-its-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q291",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Robotic surgery in oncology",
+      "file": "pdfs/by_question/Q291_february-2020-short-1-robotic-surgery-in-oncology.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q292",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Brentuximab",
+      "file": "pdfs/by_question/Q292_february-2020-short-2-brentuximab.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q293",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of biochemical relapse in ovarian cancer",
+      "file": "pdfs/by_question/Q293_february-2020-short-3-management-of-biochemical-relapse-in-o.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q294",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Olanzapine",
+      "file": "pdfs/by_question/Q294_february-2020-short-4-olanzapine.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q295",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Chemotherapy induced cardiac dysfunction",
+      "file": "pdfs/by_question/Q295_february-2020-short-5-chemotherapy-induced-cardiac-dysfuncti.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q296",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Checkpoint inhibitor toxicity and its management",
+      "file": "pdfs/by_question/Q296_february-2020-short-6-checkpoint-inhibitor-toxicity-and-its-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q297",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Merkel cell tumour",
+      "file": "pdfs/by_question/Q297_february-2020-short-7-merkel-cell-tumour.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q298",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Phase IV trials",
+      "file": "pdfs/by_question/Q298_february-2020-short-8-phase-iv-trials.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q299",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "PI3K inhibitors",
+      "file": "pdfs/by_question/Q299_february-2020-short-9-pi3k-inhibitors.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q300",
+      "exam": "February 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Chemotherapy in stage II colon cancer",
+      "file": "pdfs/by_question/Q300_february-2020-short-10-chemotherapy-in-stage-ii-colon-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q301",
+      "exam": "November 2020",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the role of PARP inhibitors in cancer.",
+      "file": "pdfs/by_question/Q301_november-2020-essay-1-discuss-the-role-of-parp-inhibitors-in.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q302",
+      "exam": "November 2020",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the staging, prognostic factors and management of chronic lymphocytic leukemia.",
+      "file": "pdfs/by_question/Q302_november-2020-essay-2-discuss-the-staging-prognostic-factors.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q303",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of stage 1 testicular germ cell tumor",
+      "file": "pdfs/by_question/Q303_november-2020-short-1-management-of-stage-1-testicular-germ-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q304",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Advantages and disadvantages of second and third generation tyrosine kinase inhibitors over imatinib in newly diagnosed chronic myeloid leukemia",
+      "file": "pdfs/by_question/Q304_november-2020-short-2-advantages-and-disadvantages-of-second.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q305",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Pregnancy associated breast cancer",
+      "file": "pdfs/by_question/Q305_november-2020-short-3-pregnancy-associated-breast-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q306",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Intra-arterial chemotherapy in retinoblastoma",
+      "file": "pdfs/by_question/Q306_november-2020-short-4-intra-arterial-chemotherapy-in-retinob.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q307",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of metastatic gastrointestinal stromal tumor (GIST)",
+      "file": "pdfs/by_question/Q307_november-2020-short-5-management-of-metastatic-gastrointesti.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q308",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Venetoclax",
+      "file": "pdfs/by_question/Q308_november-2020-short-6-venetoclax.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q309",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of acute promyelocytic Leukemia (APML)",
+      "file": "pdfs/by_question/Q309_november-2020-short-7-management-of-acute-promyelocytic-leuk.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q310",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Non-pharmacological management of pain",
+      "file": "pdfs/by_question/Q310_november-2020-short-8-non-pharmacological-management-of-pain.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q311",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "Chemotherapy in gastric cancer",
+      "file": "pdfs/by_question/Q311_november-2020-short-9-chemotherapy-in-gastric-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q312",
+      "exam": "November 2020",
+      "marks": 7,
+      "type": "short",
+      "question": "National cancer grid of India",
+      "file": "pdfs/by_question/Q312_november-2020-short-10-national-cancer-grid-of-india.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q313",
+      "exam": "August 2021",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the management of high-risk neuroblastoma.",
+      "file": "pdfs/by_question/Q313_august-2021-essay-1-discuss-the-management-of-high-risk-neur.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q314",
+      "exam": "August 2021",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the recent advances in management of HER2/neu positive breast cancer.",
+      "file": "pdfs/by_question/Q314_august-2021-essay-2-discuss-the-recent-advances-in-managemen.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q315",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Total body irradiation",
+      "file": "pdfs/by_question/Q315_august-2021-short-1-total-body-irradiation.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q316",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Sequencing of treatment in epidermal growth factor receptor (EGFR) positive metastatic lung cancer",
+      "file": "pdfs/by_question/Q316_august-2021-short-2-sequencing-of-treatment-in-epidermal-gro.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q317",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of autologous stem cell transplantation in multiple myeloma",
+      "file": "pdfs/by_question/Q317_august-2021-short-3-role-of-autologous-stem-cell-transplanta.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q318",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Management of nodular lymphocyte predominant Hodgkin lymphoma (NLPHL)",
+      "file": "pdfs/by_question/Q318_august-2021-short-4-management-of-nodular-lymphocyte-predomi.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q319",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Lung cancer screening",
+      "file": "pdfs/by_question/Q319_august-2021-short-5-lung-cancer-screening.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q320",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of adjuvant chemotherapy in endometrial cancer",
+      "file": "pdfs/by_question/Q320_august-2021-short-6-role-of-adjuvant-chemotherapy-in-endomet.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q321",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of hyperthermic intraperitoneal chemotherapy (HIPEC) in ovarian cancer",
+      "file": "pdfs/by_question/Q321_august-2021-short-7-role-of-hyperthermic-intraperitoneal-che.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q322",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Discuss whether progression free survival is a surrogate marker for overall survival in clinical trials",
+      "file": "pdfs/by_question/Q322_august-2021-short-8-discuss-whether-progression-free-surviva.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q323",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Recent advances in management of hepatocellular carcinoma",
+      "file": "pdfs/by_question/Q323_august-2021-short-9-recent-advances-in-management-of-hepatoc.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q324",
+      "exam": "August 2021",
+      "marks": 7,
+      "type": "short",
+      "question": "Intravesical immunotherapy and chemotherapy",
+      "file": "pdfs/by_question/Q324_august-2021-short-10-intravesical-immunotherapy-and-chemothe.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q325",
+      "exam": "February 2022",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the current status of DNA microarray profiling in management of malignant tumour.",
+      "file": "pdfs/by_question/Q325_february-2022-essay-1-discuss-the-current-status-of-dna-micr.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q326",
+      "exam": "February 2022",
+      "marks": 15,
+      "type": "essay",
+      "question": "Recent advances in supportive care in cancer chemotherapy.",
+      "file": "pdfs/by_question/Q326_february-2022-essay-2-recent-advances-in-supportive-care-in-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q327",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Diet and breast cancer",
+      "file": "pdfs/by_question/Q327_february-2022-short-1-diet-and-breast-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q328",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Newer cancer chemotherapy agents for ovarian cancer",
+      "file": "pdfs/by_question/Q328_february-2022-short-2-newer-cancer-chemotherapy-agents-for-o.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q329",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Tumor suppressor gene",
+      "file": "pdfs/by_question/Q329_february-2022-short-3-tumor-suppressor-gene.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q330",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "CNS directed therapy in ALL \u2013 current status",
+      "file": "pdfs/by_question/Q330_february-2022-short-4-cns-directed-therapy-in-all-current-st.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q331",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Tumor vaccines",
+      "file": "pdfs/by_question/Q331_february-2022-short-5-tumor-vaccines.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q332",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Heavy particle beam Radiation therapy",
+      "file": "pdfs/by_question/Q332_february-2022-short-6-heavy-particle-beam-radiation-therapy.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q333",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Gene manipulation in Radiotherapy",
+      "file": "pdfs/by_question/Q333_february-2022-short-7-gene-manipulation-in-radiotherapy.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q334",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Vorinostat",
+      "file": "pdfs/by_question/Q334_february-2022-short-8-vorinostat.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q335",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Molecular biology of colon cancer",
+      "file": "pdfs/by_question/Q335_february-2022-short-9-molecular-biology-of-colon-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q336",
+      "exam": "February 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Myeloma response criteria",
+      "file": "pdfs/by_question/Q336_february-2022-short-10-myeloma-response-criteria.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q337",
+      "exam": "August 2022",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the role of HIV in the pathogenesis of Cancer. Discuss the cancers associated with HIV infection. Discuss in detail the management of various lymphomas arising in a patient with HIV-AIDS.",
+      "file": "pdfs/by_question/Q337_august-2022-essay-1-discuss-the-role-of-hiv-in-the-pathogene.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q338",
+      "exam": "August 2022",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the rationale of combining checkpoint inhibitor (CPI) and VEGF inhibitors in metastatic renal cell carcinoma. Discuss the various CPI with VEGF inhibitor combinations and the evidence. Discuss 2nd line treatment of metastatic renal cell carcinoma.",
+      "file": "pdfs/by_question/Q338_august-2022-essay-2-discuss-the-rationale-of-combining-check.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q339",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Blinatumomab \u2013 class of drug and various uses",
+      "file": "pdfs/by_question/Q339_august-2022-short-1-blinatumomab-class-of-drug-and-various-u.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q340",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "E-Cigarettes \u2013 Merits and Demerits",
+      "file": "pdfs/by_question/Q340_august-2022-short-2-e-cigarettes-merits-and-demerits.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q341",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Various types of intraperitoneal chemotherapy",
+      "file": "pdfs/by_question/Q341_august-2022-short-3-various-types-of-intraperitoneal-chemoth.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q342",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Adverse events in CAR-T cell therapy",
+      "file": "pdfs/by_question/Q342_august-2022-short-4-adverse-events-in-car-t-cell-therapy.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q343",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Capmatinib \u2013 its target and evidence to use",
+      "file": "pdfs/by_question/Q343_august-2022-short-5-capmatinib-its-target-and-evidence-to-us.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q344",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Pharmacogenomics in Cancer Therapeutics",
+      "file": "pdfs/by_question/Q344_august-2022-short-6-pharmacogenomics-in-cancer-therapeutics.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q345",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Antibody Drug conjugates used in Cancer therapeutics",
+      "file": "pdfs/by_question/Q345_august-2022-short-7-antibody-drug-conjugates-used-in-cancer-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q346",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "CRISPR\u2013Cas9",
+      "file": "pdfs/by_question/Q346_august-2022-short-8-crispr-cas9.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q347",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Nanoparticle formulation of chemotherapeutic agents and its advantages",
+      "file": "pdfs/by_question/Q347_august-2022-short-9-nanoparticle-formulation-of-chemotherape.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q348",
+      "exam": "August 2022",
+      "marks": 7,
+      "type": "short",
+      "question": "Digital Droplet PCR",
+      "file": "pdfs/by_question/Q348_august-2022-short-10-digital-droplet-pcr.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q349",
+      "exam": "February 2023",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the role of genes involved in mismatch repair (MMR) mechanisms in various cancers. Discuss testing modalities of MMR genes and their interpretation. Describe the mechanism of MMR as a biomarker for checkpoint inhibitors.",
+      "file": "pdfs/by_question/Q349_february-2023-essay-1-discuss-the-role-of-genes-involved-in-.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q350",
+      "exam": "February 2023",
+      "marks": 15,
+      "type": "essay",
+      "question": "WHO 2022 classification of Myeloid malignancies and describe in detail diagnostic investigations, molecular testing, ELN 2022 risk stratification and management of Acute Myeloid Leukemia (AML).",
+      "file": "pdfs/by_question/Q350_february-2023-essay-2-who-2022-classification-of-myeloid-mal.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q351",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "BiTE (Bi-specific T-cell engager) \u2013 describe and discuss the drugs",
+      "file": "pdfs/by_question/Q351_february-2023-short-1-bite-bi-specific-t-cell-engager-descri.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q352",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "ENDS (Electronic Nicotine Delivery Systems) \u2013 Merits and Demerits",
+      "file": "pdfs/by_question/Q352_february-2023-short-2-ends-electronic-nicotine-delivery-syst.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q353",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "Local Ablative therapies in inoperable Hepatocellular Carcinoma",
+      "file": "pdfs/by_question/Q353_february-2023-short-3-local-ablative-therapies-in-inoperable.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q354",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "ICANS (Immune effector cell-associated Neurotoxicity Syndrome)",
+      "file": "pdfs/by_question/Q354_february-2023-short-4-icans-immune-effector-cell-associated-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q355",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "Brentuximab vedotin",
+      "file": "pdfs/by_question/Q355_february-2023-short-5-brentuximab-vedotin.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q356",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "Define NM-CRPC (Non-Metastatic Castrate-Resistant Prostate Cancer) and describe its treatment",
+      "file": "pdfs/by_question/Q356_february-2023-short-6-define-nm-crpc-non-metastatic-castrate.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q357",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "Use of PARP inhibitors in various cancers",
+      "file": "pdfs/by_question/Q357_february-2023-short-7-use-of-parp-inhibitors-in-various-canc.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q358",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "Various modalities of T cell depletion in Haploidentical transplantation",
+      "file": "pdfs/by_question/Q358_february-2023-short-8-various-modalities-of-t-cell-depletion.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q359",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "Tumor treating fields",
+      "file": "pdfs/by_question/Q359_february-2023-short-9-tumor-treating-fields.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q360",
+      "exam": "February 2023",
+      "marks": 7,
+      "type": "short",
+      "question": "Adjuvant therapies in Melanoma",
+      "file": "pdfs/by_question/Q360_february-2023-short-10-adjuvant-therapies-in-melanoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q361",
+      "exam": "January 2024",
+      "marks": 15,
+      "type": "essay",
+      "question": "Methods of HER2 testing and interpretation, therapeutic strategies for HER2+ve Metastatic Breast Cancer.",
+      "file": "pdfs/by_question/Q361_january-2024-essay-1-methods-of-her2-testing-and-interpretat.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q362",
+      "exam": "January 2024",
+      "marks": 15,
+      "type": "essay",
+      "question": "Practice changing advances in early stage NSCLC.",
+      "file": "pdfs/by_question/Q362_january-2024-essay-2-practice-changing-advances-in-early-sta.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q363",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "Multifocal ground glass and Lepidic adenocarcinoma of lung",
+      "file": "pdfs/by_question/Q363_january-2024-short-1-multifocal-ground-glass-and-lepidic-ade.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q364",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "Engraftment and engraftment syndrome",
+      "file": "pdfs/by_question/Q364_january-2024-short-2-engraftment-and-engraftment-syndrome.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q365",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "Screening for colorectal cancer",
+      "file": "pdfs/by_question/Q365_january-2024-short-3-screening-for-colorectal-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q366",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "H\u00fcrthle cell carcinoma",
+      "file": "pdfs/by_question/Q366_january-2024-short-4-h-rthle-cell-carcinoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q367",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "Hereditary papillary renal cell carcinoma",
+      "file": "pdfs/by_question/Q367_january-2024-short-5-hereditary-papillary-renal-cell-carcino.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q368",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "Bispecific T-Cell engagers",
+      "file": "pdfs/by_question/Q368_january-2024-short-6-bispecific-t-cell-engagers.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q369",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "Clinicopathologic features of breast cancer with intrinsic subtypes",
+      "file": "pdfs/by_question/Q369_january-2024-short-7-clinicopathologic-features-of-breast-ca.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q370",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "Systemic therapy in medullary thyroid carcinoma",
+      "file": "pdfs/by_question/Q370_january-2024-short-8-systemic-therapy-in-medullary-thyroid-c.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q371",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "Alpelisib",
+      "file": "pdfs/by_question/Q371_january-2024-short-9-alpelisib.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q372",
+      "exam": "January 2024",
+      "marks": 7,
+      "type": "short",
+      "question": "Uterine leiomyosarcoma",
+      "file": "pdfs/by_question/Q372_january-2024-short-10-uterine-leiomyosarcoma.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q373",
+      "exam": "February 2025",
+      "marks": 15,
+      "type": "essay",
+      "question": "Antibody drug conjugates in medical oncology practice.",
+      "file": "pdfs/by_question/Q373_february-2025-essay-1-antibody-drug-conjugates-in-medical-on.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q374",
+      "exam": "February 2025",
+      "marks": 15,
+      "type": "essay",
+      "question": "Mucosal melanoma.",
+      "file": "pdfs/by_question/Q374_february-2025-essay-2-mucosal-melanoma.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q375",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "Innovative approaches in treatment of glioma",
+      "file": "pdfs/by_question/Q375_february-2025-short-1-innovative-approaches-in-treatment-of-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q376",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "HIPEC",
+      "file": "pdfs/by_question/Q376_february-2025-short-2-hipec.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q377",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "Immune checkpoint inhibitors in Hodgkin\u2019s lymphoma management",
+      "file": "pdfs/by_question/Q377_february-2025-short-3-immune-checkpoint-inhibitors-in-hodgki.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q378",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "Venetoclax",
+      "file": "pdfs/by_question/Q378_february-2025-short-4-venetoclax.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q379",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "Reduced intensity conditioning regimen in stem cell transplantation",
+      "file": "pdfs/by_question/Q379_february-2025-short-5-reduced-intensity-conditioning-regimen.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q380",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "PI3 Kinase pathway inhibitors",
+      "file": "pdfs/by_question/Q380_february-2025-short-6-pi3-kinase-pathway-inhibitors.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q381",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "SBRT (Stereotactic Body Radiotherapy)",
+      "file": "pdfs/by_question/Q381_february-2025-short-7-sbrt-stereotactic-body-radiotherapy.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q382",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "Osimertinib",
+      "file": "pdfs/by_question/Q382_february-2025-short-8-osimertinib.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q383",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "Vaccine preventable cancers",
+      "file": "pdfs/by_question/Q383_february-2025-short-9-vaccine-preventable-cancers.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q384",
+      "exam": "February 2025",
+      "marks": 7,
+      "type": "short",
+      "question": "Chemotherapy associated peripheral neuropathy",
+      "file": "pdfs/by_question/Q384_february-2025-short-10-chemotherapy-associated-peripheral-ne.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q385",
+      "exam": "January 2026",
+      "marks": 15,
+      "type": "essay",
+      "question": "Discuss the development and clinical application of next-generation targeted therapies, including KRAS inhibitors, PARP inhibitors, and antibody\u2013drug conjugates.",
+      "file": "pdfs/by_question/Q385_january-2026-essay-1-discuss-the-development-and-clinical-ap.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q386",
+      "exam": "January 2026",
+      "marks": 15,
+      "type": "essay",
+      "question": "Explain the role of real-world evidence and digital oncology tools (AI decision support, digital biomarkers, remote monitoring) in modern cancer care.",
+      "file": "pdfs/by_question/Q386_january-2026-essay-2-explain-the-role-of-real-world-evidence.pdf",
+      "pages_target": 15
+    },
+    {
+      "id": "Q387",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "Sacituzumab govitecan",
+      "file": "pdfs/by_question/Q387_january-2026-short-1-sacituzumab-govitecan.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q388",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "Tumour-agnostic approvals\u2014current indications",
+      "file": "pdfs/by_question/Q388_january-2026-short-2-tumour-agnostic-approvals-current-indic.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q389",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of precision radiation (SBRT, FLASH therapy)",
+      "file": "pdfs/by_question/Q389_january-2026-short-3-role-of-precision-radiation-sbrt-flash-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q390",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "Novel markers predicting immunotherapy response",
+      "file": "pdfs/by_question/Q390_january-2026-short-4-novel-markers-predicting-immunotherapy-.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q391",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "CAR-NK and off-the-shelf cellular therapies",
+      "file": "pdfs/by_question/Q391_january-2026-short-5-car-nk-and-off-the-shelf-cellular-thera.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q392",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "Targeted therapies for hematologic malignancies\u2014BTK inhibitors, FLT3 inhibitors",
+      "file": "pdfs/by_question/Q392_january-2026-short-6-targeted-therapies-for-hematologic-mali.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q393",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "Radioligand therapy\u2014recent clinical applications",
+      "file": "pdfs/by_question/Q393_january-2026-short-7-radioligand-therapy-recent-clinical-app.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q394",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "Vaccines in oncology\u2014therapeutic vs preventive",
+      "file": "pdfs/by_question/Q394_january-2026-short-8-vaccines-in-oncology-therapeutic-vs-pre.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q395",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "ctDNA monitoring in colorectal cancer",
+      "file": "pdfs/by_question/Q395_january-2026-short-9-ctdna-monitoring-in-colorectal-cancer.pdf",
+      "pages_target": 11
+    },
+    {
+      "id": "Q396",
+      "exam": "January 2026",
+      "marks": 7,
+      "type": "short",
+      "question": "Role of microbiome modulation in enhancing immunotherapy effects",
+      "file": "pdfs/by_question/Q396_january-2026-short-10-role-of-microbiome-modulation-in-enhan.pdf",
+      "pages_target": 11
+    }
+  ]
+}
