@@ -9,7 +9,8 @@ Exam-oriented answer PDFs for **all extractable questions** from the Tamil Nadu 
 | Question PDFs | **396** individual PDFs (`pdfs/by_question/`) — includes OCR-recovered **2001–2008** papers |
 | Essays / Elaborate | typically **14–16 pages** |
 | Short notes | typically **11–13 pages** |
-| Focus pack 2022–2026 | **72** deepened PDFs (`pdfs/focus_2022_2026/`) |
+| Focus pack 2022–2026 | **72** PDFs (`pdfs/focus_2022_2026/`) — **12 essays are DEEP** (~19–22 pages, trial-dense) |
+| Topic-wise index | `pdfs/Topic_Wise_Study_Index.pdf` (10-day revision plan) |
 | NCCN cheat sheet | `pdfs/NCCN_2026_Updates_CheatSheet.pdf` |
 | Master index | `pdfs/00_Master_Index.pdf` |
 | Full zip | `/opt/cursor/artifacts/dm-oncology-exam-notes/DM_Oncology_PaperIV_All_Answers.zip` |
